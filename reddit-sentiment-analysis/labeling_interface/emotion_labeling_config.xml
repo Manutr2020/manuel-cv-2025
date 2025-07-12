@@ -1,0 +1,21 @@
+<View>
+  <!-- Intestazione -->
+  <Header value="Analisi dell'emozione del linguaggio degli utenti di Reddit"/>
+
+  <!-- Testo Annotabile (Post o Commento) -->
+  <Text name="content_text" value="$contenuto"/>
+
+  <!-- Mostra il Tipo (Post o Commento) e l'ordine -->
+  <Header value="Labels delle 8 emozioni base"/>
+
+    <Labels name="emotion_labels" toName="content_text">
+    <Label value="Rabbia" background="#FF0000" />
+    <Label value="Aspettativa" background="#FFA500" />
+    <Label value="Gioia" background="#FFFF00" />
+    <Label value="Fiducia" background="#008000" />
+    <Label value="Paura" background="#0000FF" />
+    <Label value="Sorpresa" background="#800080" />
+    <Label value="Tristezza" background="#000080" />
+    <Label value="Disgusto" background="#8B0000" />
+  </Labels>
+</View>

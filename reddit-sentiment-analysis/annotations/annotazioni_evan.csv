@@ -1,0 +1,357 @@
+"annotation_id","annotator","contenuto","created_at","emotion_labels","id","lead_time","tipo","updated_at"
+
+5,"1","Titolo: Che canzoni mi consigliate?
+
+Io M14 non ascolto musica ma da quando ho cominciato le superiori vedo sempre gente che l' ascolta in corriera. Ultimamente i miei amici continuano ad ascoltare musica anche mentre usciamo e sto cominciando ad incuriosirmi, perciò vi chiedo di consigliarmi una qualunque canzone, band o cantante di qualunque genere musicale. Grazie👍","2024-12-06T14:32:30.788693Z","[{""start"":281,""end"":361,""text"":""consigliarmi una qualunque canzone, band o cantante di qualunque genere musicale"",""labels"":[""Aspettativa""]},{""start"":228,""end"":259,""text"":""sto cominciando ad incuriosirmi"",""labels"":[""Aspettativa""]},{""start"":8,""end"":35,""text"":""Che canzoni mi consigliate?"",""labels"":[""Aspettativa""]}]",1,822.325,"post","2024-12-06T14:49:53.251505Z"
+
+6,"1","Io vado pazzo per il symphonic metal
+
+Blank infinity - Epica
+
+Jillian - Within temptation
+
+Da vinci's enigma - Turilli/lione rhapsody","2024-12-06T14:32:34.286336Z","[{""start"":0,""end"":36,""text"":""Io vado pazzo per il symphonic metal"",""labels"":[""Gioia""]}]",2,52.227000000000004,"commento","2024-12-06T14:50:44.703189Z"
+
+9,"1","Se ti interessa questa è la mia playlist, all'inizio ci stanno robe che ora ascolto molto meno(tipo i tenacius d), però c'è molta roba che forse ti puo' interessare 
+
+https://open.spotify.com/playlist/1Byf8QlUkc80fQxKZ9mSpI?si=owtCfGrpSpWpzxvbkxHIkg&pi=FovjXI5cTw-TS","2024-12-06T14:52:16.631007Z","[{""start"":0,""end"":40,""text"":""Se ti interessa questa è la mia playlist"",""labels"":[""Aspettativa""]},{""start"":42,""end"":94,""text"":""all'inizio ci stanno robe che ora ascolto molto meno"",""labels"":[""Disgusto""]},{""start"":120,""end"":165,""text"":""c'è molta roba che forse ti puo' interessare\\n"",""labels"":[""Aspettativa""]}]",3,90.067,"commento","2024-12-06T14:52:16.631007Z"
+
+8,"1","Ti butto giù qualche nome in base a cosa ascolto io: Linkin park, Korn, Slipknot, Marilyn Manson, system of a down, Metallica, megadeth, Ozzy Osbourne, Rammstein, till lindemann, Hollywood undead, Eminem, smashing pumpkins, Judas priest, Rob zombie, oasis.","2024-12-02T15:29:44.306253Z","",4,14.26,"commento","2024-12-02T15:29:44.306253Z"
+
+7,"1","Titolo: Come migliorare nella matematica
+
+Come si migliora in matematica. Nella esposizione orale di teoremi o di dimostrazioni non ho problemi, ma non riesco a mai a prendere voti soddisfacenti ai compiti scritti. Idee? Sono in quinto scientifico","2024-12-06T14:36:57.652626Z","[{""start"":148,""end"":213,""text"":""non riesco a mai a prendere voti soddisfacenti ai compiti scritti"",""labels"":[""Tristezza""]},{""start"":215,""end"":220,""text"":""Idee?"",""labels"":[""Aspettativa""]},{""start"":8,""end"":40,""text"":""Come migliorare nella matematica\\n"",""labels"":[""Aspettativa""]},{""start"":42,""end"":72,""text"":""Come si migliora in matematica"",""labels"":[""Aspettativa""]}]",5,119.327,"post","2024-12-06T14:52:54.366774Z"
+
+8,"1","Titolo: Consiglio su relazione/lavoro
+
+Mi sento con le spalle al muro, vorrei qualche consiglio sensato per favore.
+
+Argomento: relazione e lavoro
+
+Io (21F) sto assieme al mio ragazzo da più di 4 anni, conviviamo da 2. 
+Ho la possibilità di lavorare come mercante da fiera con un’azienda olandese all’estero dove si guadagna molto bene, vitto e alloggio compreso. Per 5 mesi.
+Insomma il lavoro è tutto apposto sono affidabili, ho già lavorato con loro brava gente e sin fan soldi e tutto ok insomma.
+
+Io e il mio ragazzo abbiamo avuto una relazione a distanza per 2 anni dove ne abbiamo passate di cotte e di crude, quando finalmente abbiamo convissuto non siam più riusciti a separarci. Relazione sanissima, ci vogliamo un bene immenso e il rispetto/ascolto sono base fondante del nostro rapporto.
+
+Abbiamo entrambi paura dei 5 mesi di distanza. So che sembrano pochi per molti, ma per noi sono tantissimi.
+Lui è rattristato all’idea ma mi fa “assolutamente vacci, è importante per te e rispetto questa scelta. Ma preferirei stessi qui” con le lacrime agli occhi 🥺 
+
+Provo mille paure del lavoro (sono un’introversa 🥲) ma anche tanta emozione.
+
+Vorrei andare ma allo stesso tempo ho paura che questo possa compromettere il nostro rapporto perché in questi mesi non potremo vederci (vado in Lapponia per intenderci :/ ) e  di star male a contatto con gente 24/7 per mesi
+
+Sono quel tipo di persona che dopo una giornata di socializzazione, ha bisogno di 2 giorni chiusa in casa da sola (e/o col mio ragazzo) per capirci
+
+Aiuto
+
+Non so cosa dovrei fare","2024-12-06T14:41:38.205787Z","[{""start"":39,""end"":69,""text"":""Mi sento con le spalle al muro"",""labels"":[""Tristezza""]},{""start"":71,""end"":114,""text"":""vorrei qualche consiglio sensato per favore"",""labels"":[""Aspettativa""]},{""start"":383,""end"":409,""text"":"" il lavoro è tutto apposto"",""labels"":[""Gioia""]},{""start"":709,""end"":737,""text"":""ci vogliamo un bene immenso "",""labels"":[""Gioia""]},{""start"":800,""end"":845,""text"":""Abbiamo entrambi paura dei 5 mesi di distanza"",""labels"":[""Paura""]},{""start"":908,""end"":934,""text"":""Lui è rattristato all’idea"",""labels"":[""Tristezza""]},{""start"":8,""end"":37,""text"":""Consiglio su relazione\/lavoro"",""labels"":[""Aspettativa""]},{""start"":410,""end"":425,""text"":""sono affidabili"",""labels"":[""Fiducia""]},{""start"":1015,""end"":1036,""text"":""preferirei stessi qui"",""labels"":[""Tristezza""]},{""start"":1068,""end"":1096,""text"":""Provo mille paure del lavoro"",""labels"":[""Paura""]},{""start"":1123,""end"":1143,""text"":""anche tanta emozione"",""labels"":[""Gioia""]},{""start"":1064,""end"":1065,""text"":""🥺"",""labels"":[""Tristezza""]},{""start"":1117,""end"":1118,""text"":""🥲"",""labels"":[""Tristezza""]},{""start"":1146,""end"":1159,""text"":""Vorrei andare"",""labels"":[""Aspettativa""]},{""start"":1181,""end"":1239,""text"":""ho paura che questo possa compromettere il nostro rapporto"",""labels"":[""Paura""]},{""start"":1323,""end"":1370,""text"":""di star male a contatto con gente 24\/7 per mesi"",""labels"":[""Tristezza""]},{""start"":1521,""end"":1526,""text"":""Aiuto"",""labels"":[""Aspettativa""]},{""start"":1528,""end"":1551,""text"":""Non so cosa dovrei fare"",""labels"":[""Tristezza""]}]",6,1280.235,"post","2024-12-06T15:05:02.418924Z"
+
+10,"1","Ma lui non può venire con te? Se così non fosse, io da terzo ti consiglio di andarci, ma alla fine la relazione è vostra, quindi fatelo con le vostre scelte.","2024-12-08T18:24:44.274241Z","[{""start"":3,""end"":29,""text"":""lui non può venire con te?"",""labels"":[""Aspettativa""]},{""start"":61,""end"":84,""text"":""ti consiglio di andarci"",""labels"":[""Aspettativa""]}]",7,155.8,"commento","2024-12-08T18:24:44.274241Z"
+
+11,"1","Dipende da che punto vuoi vederla, punto di vista della relazione o punto di vista della tua persona (non so se si capisce)","2024-12-02T16:02:11.799896Z","[{""start"":102,""end"":122,""text"":""non so se si capisce"",""labels"":[""Aspettativa""]}]",8,21.436,"commento","2024-12-02T16:02:11.799896Z"
+
+11,"1","Titolo: Analista geopolitico
+
+Ciao a tutti, ho 26 anni, lavoro in banca da 3 anni e sto frequentando la magistrale di scienze politiche e di governo (indirizzo geopolitica). Da poco ho iniziato a collaborare per un centro di ricerca di analisi geopolitica (IARI, istituto analisi relazioni internazionale). Il mio sogno è cambiare lavoro e vivere di geopolitica, una passione che sto coltivando da un po’ di tempo. 
+C’è qualcuno che conosce questo centro di ricerca e che può darmi un paio di consigli su come raggiungere questo obiettivo?
+Grazie a tutti","2024-12-08T18:26:12.619006Z","[{""start"":8,""end"":28,""text"":""Analista geopolitico\\n"",""labels"":[""Aspettativa""]},{""start"":307,""end"":361,""text"":""Il mio sogno è cambiare lavoro e vivere di geopolitica"",""labels"":[""Aspettativa""]},{""start"":416,""end"":465,""text"":""C’è qualcuno che conosce questo centro di ricerca"",""labels"":[""Aspettativa""]},{""start"":468,""end"":539,""text"":""che può darmi un paio di consigli su come raggiungere questo obiettivo?"",""labels"":[""Aspettativa""]}]",9,71.255,"post","2024-12-08T18:26:12.619006Z"
+
+12,"1","Titolo: Sentirsi falliti a 45 anni
+
+È così, matrimonio in frantumi dopo anni che ho fatto di tutto per tenerlo in piedi, cosa sbagliatissima, oggi mi ritrovo senza lavoro stabile, faccio assistenza privatamente come OSS, ma il giro non è soddisfacente per nulla, tanta concorrenza, vorrei riprendere gli studi per lavorare dignitosamente. 
+Sarebbe opportuno fare scienze infermieristiche, finirei a 50 anni e magari avrei più possibilità da infermiera, oppure mi piacerebbe specializzarmi come OSS e avevo pensato di imparare il linguaggio dei segni, per sordomuti, per lavorare nei centri o nelle comunità, ma ho paura sia troppo di nicchia, e comunque si studia tanto quanto una comune laurea. 
+Purtroppo ci sono tanti OSS che non lavorano e ne sfornano di continuo, e di fatto non si ha nessuna specializzazione. 
+Ho bisogno urgente di lavorare, avevo qualcosa da parte, ma è difficile mantenere un ragazzo di 14 anni con un mantenimento di 300 euro e con un lavoro come il mio dove appena arrivi a 500 o 600 euro al mese.
+Per anno ho lavorato a nero, qui da noi al sud è molto comune. 
+Ho un diploma di ragioneria conseguito con 100 e un corso professionale regionale con attestato in grafica. 
+Mi sento tanto confusa, cerco una strada concreta. 
+Se avete consigli sono graditi, grazie","2024-12-08T18:35:38.013260Z","[{""start"":8,""end"":34,""text"":""Sentirsi falliti a 45 anni"",""labels"":[""Aspettativa""]},{""start"":282,""end"":309,""text"":""vorrei riprendere gli studi"",""labels"":[""Aspettativa""]},{""start"":460,""end"":497,""text"":""mi piacerebbe specializzarmi come OSS"",""labels"":[""Aspettativa""]},{""start"":611,""end"":641,""text"":""ho paura sia troppo di nicchia"",""labels"":[""Paura""]},{""start"":224,""end"":261,""text"":""il giro non è soddisfacente per nulla"",""labels"":[""Tristezza""]},{""start"":500,""end"":549,""text"":""avevo pensato di imparare il linguaggio dei segni"",""labels"":[""Aspettativa""]},{""start"":1251,""end"":1281,""text"":""Se avete consigli sono graditi"",""labels"":[""Aspettativa""]},{""start"":1199,""end"":1221,""text"":""Mi sento tanto confusa"",""labels"":[""Tristezza""]},{""start"":1223,""end"":1248,""text"":""cerco una strada concreta"",""labels"":[""Aspettativa""]},{""start"":697,""end"":742,""text"":""Purtroppo ci sono tanti OSS che non lavorano "",""labels"":[""Tristezza""]}]",10,939.414,"post","2024-12-22T15:23:23.430112Z"
+
+13,"1","Hai pensato di andare in un centro per l' impiego? Difficilmente ti troveranno un lavoro però potrebbero orientarti sui corsi per il tuo futuro","2024-12-08T18:36:03.642924Z","[{""start"":0,""end"":50,""text"":""Hai pensato di andare in un centro per l' impiego?"",""labels"":[""Aspettativa""]},{""start"":94,""end"":143,""text"":""potrebbero orientarti sui corsi per il tuo futuro"",""labels"":[""Aspettativa""]}]",11,22.112,"commento","2024-12-08T18:36:03.642924Z"
+
+14,"1","non ti scoraggiare, è proprio in momenti in cui tutto sembra stia andando male che possono venir fuori le nostre vere inclinazioni. In questo momento non hai bisogno di dirti che sei fallita. Ti consiglio di farti un giro su linkedin / indeed e provare a cercare i lavori che più ti interessano. se vedi che per il linguaggio dei segni c'è un buon mercato tanto meglio che sia di nicchia. La specializzazione è valore. Ho un conoscente che dopo aver perso il lavoro ha preso una laurea a 55 anni cambiando totalmente la sua vita. Per quanto possa aver valore detto da dietro uno schermo, ti auguro il meglio e so che riuscirai ed essere più forte di tutto questo","2024-12-08T18:38:46.262764Z","[{""start"":192,""end"":242,""text"":""Ti consiglio di farti un giro su linkedin \/ indeed"",""labels"":[""Aspettativa""]},{""start"":588,""end"":607,""text"":""ti auguro il meglio"",""labels"":[""Aspettativa""]},{""start"":245,""end"":294,""text"":""provare a cercare i lavori che più ti interessano"",""labels"":[""Aspettativa""]}]",12,192.11599999999999,"commento","2024-12-22T15:32:15.446531Z"
+
+15,"1","sinceramente non vedo la fine di un matrimonio da collegare a un fallimento della vita... cioè ormai sono più i separati normali o di fatto che altro! poi un obiettivo importante come avere un figlio (se mai possa ritenerlo tale, questo dipende) lo hai già raggiunto, a differenza di molti che saranno senza figli e con al massimo un cane...
+
+i soldi vanno e vengono, se ti impegni potrai solo migliorare la situazione economica","2024-12-08T18:41:26.984416Z","[{""start"":0,""end"":86,""text"":""sinceramente non vedo la fine di un matrimonio da collegare a un fallimento della vita"",""labels"":[""Tristezza""]}]",13,158.179,"commento","2024-12-08T18:41:26.984416Z"
+
+16,"1","Titolo: Mi hanno invitato a fare un rito cabalistico satanico per far risorgere il duce: che faccio? Accetto?
+
+Testo non disponibile","2024-12-08T18:42:04.955961Z","[{""start"":89,""end"":100,""text"":""che faccio?"",""labels"":[""Aspettativa""]},{""start"":101,""end"":109,""text"":""Accetto?"",""labels"":[""Aspettativa""]}]",14,29.974,"post","2024-12-08T18:42:04.955961Z"
+
+19,"1","procedi pure, voglio vedere la sua reazione quando gli dicono che lollobrigida e salvini sono più pericolosi di lui e hitler","2024-12-04T10:16:49.620946Z","[{""start"":14,""end"":124,""text"":""voglio vedere la sua reazione quando gli dicono che lollobrigida e salvini sono più pericolosi di lui e hitler"",""labels"":[""Aspettativa""]}]",15,29.818,"commento","2024-12-04T10:16:49.620946Z"
+
+18,"1","Titolo: Problemi di coppia
+
+Quando io (78M) ero un giovane e stupido ventenne, ho trascorso alcuni anni spensierati nella provincia di Firenze stuprando, torturando e uccidendo coppiette. Non voglio giudizi da parte dei buonisti su questo, per favore, se non avete vissuto in Toscana negli anni '70, non potete capire. Era semplicemente quello che facevamo a quei tempi. Alla fine sono cresciuto, mi sono sposato, ho avuto tre bellissimi figli e mi sono accontentato di dedicarmi ai miei trofei e alle mie polaroid, e magari di uccidere qualche vagabondo in occasioni speciali.
+
+L'altro giorno, mia moglie (27F) ha trovato il pannello nascosto nel muro della cantina dove conservo tutti i vecchi ricordi ed è andata su tutte le furie. Ho cercato di calmarla, spiegandole che, in primo luogo, erano tutti uomini, quindi non dovrebbe essere gelosa. Secondo, sono tutti morti, quindi non deve preoccuparsi che io la lasci per qualcuno di loro. Terzo, c'erano altri tre o quattro ragazzi che facevano la stessa cosa e si sono presi il merito della maggior parte delle mie uccisioni. Ero molto attento, coprivo le mie tracce, raramente finivo dentro di loro. Non so perché si sia agitata così tanto.
+
+Francamente, mi sento molto ferito da tutta questa storia. Stiamo insieme da quasi vent'anni e lei pensa di lasciarmi per una cosa del genere? Forse avrei dovuto essere più onesto, ma sono stato educato a vedere queste cose come affari da uomini, non come qualcosa in cui coinvolgere la propria signora.
+
+Sono io lo stronzo?","2024-12-08T18:46:26.927718Z","[{""start"":8,""end"":26,""text"":""Problemi di coppia"",""labels"":[""Aspettativa""]},{""start"":188,""end"":238,""text"":""Non voglio giudizi da parte dei buonisti su questo"",""labels"":[""Aspettativa""]},{""start"":707,""end"":733,""text"":""è andata su tutte le furie"",""labels"":[""Rabbia""]},{""start"":1154,""end"":1193,""text"":""Non so perché si sia agitata così tanto"",""labels"":[""Sorpresa""]},{""start"":1209,""end"":1253,""text"":""mi sento molto ferito da tutta questa storia"",""labels"":[""Tristezza""]},{""start"":1339,""end"":1375,""text"":""Forse avrei dovuto essere più onesto"",""labels"":[""Tristezza""]}]",16,203.369,"post","2024-12-08T18:46:26.927718Z"
+
+19,"1","Ciao mi serve un consiglio del cuore perchè ho dei problemi con una persona che per me è tanto speciale... per quanti giorni devo lasciare affamati i maiali? Non deve rimanere neanche la polvere","2024-12-08T18:47:32.296751Z","[{""start"":5,""end"":36,""text"":""mi serve un consiglio del cuore"",""labels"":[""Aspettativa""]},{""start"":107,""end"":157,""text"":""per quanti giorni devo lasciare affamati i maiali?"",""labels"":[""Aspettativa""]}]",17,22.473,"commento","2024-12-08T18:47:32.296751Z"
+
+20,"1","Ok, OP... 😳, spacchettiamo questo caos assoluto. Prima di tutto, non so nemmeno da dove cominciare, perché questo è fuori da qualsiasi schema. Ma se c’è una cosa che grida problema qui, è il gap generazionale. Tipo, dai, tu hai 78 anni e lei 27! 🤯 Non è solo una differenza di età, è proprio una differenza di epoche.
+
+Facciamola semplice:
+
+1️⃣ Dinamiche di potere – State insieme da quasi vent’anni?! Quindi lei aveva cosa? 18 ANNI quando siete diventati una coppia?! 🧍‍♀️ Tipo, come fa un’adolescente a processare che il suo partner molto più vecchio tiene un kit del killer in cantina? Bro, lei probabilmente pensava di stare con un Babbo Natale in pensione, non... questo.
+
+2️⃣ Sconnessione culturale – Tu giustifichi i tuoi, ehm, passatempi dicendo che erano cose da “altri tempi”. Amico, no. 🚫 La Gen Z non era neanche nata nel tuo “periodo crimini in Toscana” e non è che stiano per aggiornare il loro software per capirlo. Per lei, questa cosa non è nostalgia, è più tipo 🚨 ""Pronto, Polizia?""
+
+3️⃣ La sua reazione ha senso – Lei ha 27 anni. Il suo problema più grande prima di questa scoperta era probabilmente decidere cosa postare su TikTok. Ora deve fare i conti col fatto che il marito ricorda con affetto di non lasciare tracce (PS: “raramente finivo dentro di loro”?! Amico, 🚪👉).
+
+TL;DR: Il problema qui non è solo che hai degli scheletri nell’armadio (letteralmente 🦴). È che voi due venite da pianeti così diversi 🌌 che lei probabilmente non riesce nemmeno a vedere i segnali d’allarme prima di essere travolta dai 🚨 camion dei pompieri.
+
+Verdetto: YTA per il gap d’età. Tutto il resto? 🚀 Diretto al documentario true crime.","2024-12-08T18:54:46.141168Z","[{""start"":146,""end"":208,""text"":""se c’è una cosa che grida problema qui, è il gap generazionale"",""labels"":[""Disgusto""]},{""start"":367,""end"":401,""text"":""State insieme da quasi vent’anni?!"",""labels"":[""Sorpresa""]},{""start"":480,""end"":588,""text"":""come fa un’adolescente a processare che il suo partner molto più vecchio tiene un kit del killer in cantina?"",""labels"":[""Sorpresa""]},{""start"":787,""end"":796,""text"":""Amico, no"",""labels"":[""Tristezza""]},{""start"":1049,""end"":1150,""text"":""Il suo problema più grande prima di questa scoperta era probabilmente decidere cosa postare su TikTok"",""labels"":[""Aspettativa""]}]",18,270.517,"commento","2024-12-08T18:54:46.141168Z"
+
+21,"1","Sicuramente credeva che dietro il pannello nascondessi dei soldi, per questo stava con te, brutto maniaco del cazzo, almeno il Pacciani ha scritto le poesie","2024-12-08T18:55:18.500432Z","[{""start"":0,""end"":64,""text"":""Sicuramente credeva che dietro il pannello nascondessi dei soldi"",""labels"":[""Aspettativa""]}]",19,29.828,"commento","2024-12-08T18:55:18.500432Z"
+
+22,"1","Torna a criticare i giovani al parco che guardano il telefono e a prendere la tua pensione da lavoratore della UnipolSai se hai veramente 70 anni","2024-12-08T18:55:45.009637Z","[{""start"":0,""end"":61,""text"":""Torna a criticare i giovani al parco che guardano il telefono"",""labels"":[""Rabbia""]}]",20,24.178,"commento","2024-12-08T18:55:45.009637Z"
+
+23,"1","Sai qual è il problema? 
+
+
+
+Che ni mondo non esiste un po' di bene
+
+Ed ognun' non si considera fratelli","2024-12-08T18:59:39.201293Z","[{""start"":0,""end"":23,""text"":""Sai qual è il problema?"",""labels"":[""Aspettativa""]},{""start"":28,""end"":66,""text"":""Che ni mondo non esiste un po' di bene"",""labels"":[""Tristezza""]}]",22,29.574,"commento","2024-12-08T18:59:39.201293Z"
+
+24,"1","Titolo: No, non è un mondo di merda (o per lo meno, non piu di quanto lo è gia stato)
+
+Non c'è il fascismo, non c'è censura, non c'è il patriarcato e non c'è nemmeno oppressione verso le altre idee.
+
+Puoi scrivere di quanto ti facciano schifo i maschi (ma guarda caso ti metti sempre con uno violento lasciando in friendzone/zerbinaggio gente per bene), di quanto faccia schifo Israele (che si difende da terroristi che vogliono solo distruggere e opprimere), di quanto Trump sia contro le donne o lgbt (anche se non c'è una singola intenzione di emanare leggi in tal senso), di quanto il cambiamento climatico stia distruggendo il mondo (però sei disoccupat con moltissimo tempo libero)
+
+TlDr: No, il mondo è sempre stato lo stesso, nel bene e nel male. Non c'è il fascismo, come non c'è stato quando per motivi socio-economici la gente ha da sempre votato a destra.","2024-12-08T19:00:34.366179Z","[{""start"":8,""end"":85,""text"":""No, non è un mondo di merda (o per lo meno, non piu di quanto lo è gia stato)\\n"",""labels"":[""Aspettativa""]}]",23,52.498,"post","2024-12-08T19:00:34.366179Z"
+
+25,"1","Sarebbe più corretto dire che il ""mondo"", intesto come l'esperienza percettiva degli esseri umani che per noi è tutto ciò che esiste e che conta davvero, diventa inevitabilmente sempre più complesso, tanto nel progredimento e nell'iperdiversificazione dei rapporti socio-economici e geo-politici, quando nell'incremento della nostra capacità di cogliere questa complessità e di viverla in maniera problematica.
+
+Insomma cose che andrebbero insegnate alle elementari, maledetto il Creato e i pubi cesellati degli angeli.","2024-12-08T19:03:49.810436Z","[{""start"":0,""end"":198,""text"":""Sarebbe più corretto dire che il \""mondo\"", intesto come l'esperienza percettiva degli esseri umani che per noi è tutto ciò che esiste e che conta davvero, diventa inevitabilmente sempre più complesso"",""labels"":[""Aspettativa""]},{""start"":412,""end"":465,""text"":""Insomma cose che andrebbero insegnate alle elementari"",""labels"":[""Disgusto""]}]",24,192.558,"commento","2024-12-08T19:03:49.810436Z"
+
+26,"1","Israele ha da sempre un piano di ""sicurezza"" che veniva trattenuto da USA e ONU. Questo piano di ""sicurezza"" inizia dalla guerra del Kippur e dall'occupazione tuttora illegale ma fregacazzi di territori non concordati. 
+
+Non friendzonano il tipo perbene, il tipo perbene non si fa friendzonare, se accade vuol dire che si zerbina, ergo mente, ergo è anch'esso un figlio di mignotta. 
+
+Il fascismo c'è. Come quei due pistoiesi venuti a Firenze per sparare agli immigrati. O quelli che hanno bruciato il magazzino di tale casa editrice padovana perché ha pubblicato le memorie di un partigiano.
+
+Per criticare il mondo bisognerebbe prima conoscerlo.","2024-12-08T19:07:33.313215Z","[{""start"":179,""end"":217,""text"":""fregacazzi di territori non concordati"",""labels"":[""Rabbia""]},{""start"":594,""end"":646,""text"":""Per criticare il mondo bisognerebbe prima conoscerlo"",""labels"":[""Rabbia""]}]",25,220.663,"commento","2024-12-08T19:07:33.313215Z"
+
+27,"1","Qualcuno faccia spawnare il tizio che su r/CasuaIT continua a spammare che scambierebbe la situazione attuale con gli anni 80. Ho bisogno di una bossfight","2024-12-08T19:08:37.360191Z","[{""start"":0,""end"":126,""text"":""Qualcuno faccia spawnare il tizio che su r\/CasuaIT continua a spammare che scambierebbe la situazione attuale con gli anni 80."",""labels"":[""Aspettativa""]},{""start"":127,""end"":154,""text"":""Ho bisogno di una bossfight"",""labels"":[""Aspettativa""]}]",26,42.102,"commento","2024-12-08T19:08:37.360191Z"
+
+31,"1","Sono i palestinesi a difendersi dai terroristi che li vogliono uccidere e opprimere. Il governo di Israele sta commettendo quello che hanno commesso gli stessi nazisti. Adesso puoi continuare a segarti sui bambini mutilati dalle bombe israeliane","2024-12-04T11:23:41.881932Z","[{""start"":169,""end"":245,""text"":""Adesso puoi continuare a segarti sui bambini mutilati dalle bombe israeliane"",""labels"":[""Disgusto""]}]",27,54.447,"commento","2024-12-04T11:23:41.881932Z"
+
+32,"1","Titolo: Terapia con Prozac (fluoxetina)
+
+Ciao a tutti,  
+dopo due anni di terapia con la mia psicologa per depressione (dovuta a lutti ed eventi) e tutto ciò che ne comporta (pensieri suicidari, apatia, fame nervosa, tristezza), ho deciso di accettare la strada degli psicofarmaci, che mi era stata proposta sin dall'inizio.
+
+Oggi è il giorno 17 di terapia con 40 mg di Prozac (fluoxetina). Ho iniziato con 20 mg per i primi 7 giorni, come da indicazioni, per poi aumentare il dosaggio.  
+Intorno al settimo giorno avevo cominciato a sentire dei miglioramenti, ma con l'aumento della dose previsto dal piano ho iniziato a stare peggio.
+
+Mi sento in una sorta di modalità ""zombie"": non provo nulla, sono letargico tutto il giorno, ho nausea, zero iniziativa e mi sento sempre piatto.  
+So che si dice che il Prozac inizi a fare effetto dalla quarta settimana in poi, ma mi chiedo quali esperienze abbiate avuto voi al riguardo.
+
+Per ora, il Prozac ha spento ogni mia emozione: ha eliminato i pensieri negativi, la bulimia e fame nervosa sono sparite, ma mi sento intrappolato in una sorta di limbo. È come se la mia macchina, con la spia del motore accesa, fosse stata semplicemente spenta... La spia è sparita, sì, ma il motore è fermo, e quindi non posso muovermi.
+
+Ho bisogno di feedback ed esperienze positive: qualcuno di voi ci è passato?","2024-12-04T11:54:03.076222Z","[{""start"":515,""end"":559,""text"":""avevo cominciato a sentire dei miglioramenti"",""labels"":[""Gioia""]},{""start"":608,""end"":635,""text"":""ho iniziato a stare peggio."",""labels"":[""Tristezza""]},{""start"":637,""end"":679,""text"":""Mi sento in una sorta di modalità \""zombie\"""",""labels"":[""Tristezza""]},{""start"":869,""end"":926,""text"":""mi chiedo quali esperienze abbiate avuto voi al riguardo."",""labels"":[""Aspettativa""]},{""start"":1053,""end"":1096,""text"":""mi sento intrappolato in una sorta di limbo"",""labels"":[""Tristezza""]},{""start"":1314,""end"":1343,""text"":""qualcuno di voi ci è passato?"",""labels"":[""Aspettativa""]},{""start"":937,""end"":974,""text"":""il Prozac ha spento ogni mia emozione"",""labels"":[""Tristezza""]},{""start"":681,""end"":696,""text"":""non provo nulla"",""labels"":[""Tristezza""]},{""start"":741,""end"":756,""text"":""zero iniziativa"",""labels"":[""Tristezza""]},{""start"":759,""end"":781,""text"":""mi sento sempre piatto"",""labels"":[""Tristezza""]}]",29,1141.03,"post","2024-12-13T10:32:16.055959Z"
+
+33,"1","Lo prendo da 9 mesi. Ho preso 40mg per circa 5 mesi però ultimamente mi aveva fatto diventare una zombie e non so perché. Adesso prendo 20 mg e mi sento più umana. 
+
+Se non va meglio in due settimane, ti consiglio di abbassare la dose (ovviamente parlane col dottore prima). 
+
+Se hai domande mi puoi scrivere in privato :)","2024-12-04T11:56:11.974383Z","[{""start"":69,""end"":104,""text"":""mi aveva fatto diventare una zombie"",""labels"":[""Tristezza""]},{""start"":144,""end"":162,""text"":""mi sento più umana"",""labels"":[""Gioia""]},{""start"":201,""end"":234,""text"":""ti consiglio di abbassare la dose"",""labels"":[""Aspettativa""]},{""start"":277,""end"":319,""text"":""Se hai domande mi puoi scrivere in privato"",""labels"":[""Aspettativa""]},{""start"":320,""end"":322,""text"":"":)"",""labels"":[""Gioia""]}]",30,89.393,"commento","2024-12-13T10:28:47.673105Z"
+
+34,"1","Premessa: Gli antidepressivi hanno un effetto diverso da persona a persona.
+In ogni caso, io con la fluoxetina mi sono trovata malissimo, il primo mese prendevo due compresse al giorno (aumentate gradualmente) e ho perso completamente ogni tipo di appetito, sviluppando una sorta di rifiuto verso qualsiasi tipo di cibo, sono stata ancora più depressa e le ideazioni suicidarie sono aumentate. Ora, questi sono effetti collaterali comuni nei primi periodi della fluoxetina, ma se ritieni che dopo un mese la situazione non migliori drasticamente, ti consiglio di consultarti con lo psichiatra e chiedere di cambiare farmaco. Ci può stare dovrerne cambiare tanti prima di trovare quello giusto.
+Io ora prendo la venlaflexina, che mi ha svoltato decisamente la vita. L'unico contro è che non devi assolutamente dimenticare di prenderlo perché causa assuefazione e i sintomi da astinenza sono terrificanti, quindi se vuoi interrompere devi sempre essere monitorato.","2024-12-04T12:01:26.467968Z","[{""start"":258,""end"":319,""text"":""sviluppando una sorta di rifiuto verso qualsiasi tipo di cibo"",""labels"":[""Disgusto""]},{""start"":321,""end"":351,""text"":""sono stata ancora più depressa"",""labels"":[""Tristezza""]},{""start"":354,""end"":392,""text"":""le ideazioni suicidarie sono aumentate"",""labels"":[""Tristezza""]},{""start"":547,""end"":623,""text"":""ti consiglio di consultarti con lo psichiatra e chiedere di cambiare farmaco"",""labels"":[""Aspettativa""]},{""start"":729,""end"":763,""text"":""mi ha svoltato decisamente la vita"",""labels"":[""Gioia""]},{""start"":862,""end"":902,""text"":""i sintomi da astinenza sono terrificanti"",""labels"":[""Paura""]},{""start"":111,""end"":136,""text"":""mi sono trovata malissimo"",""labels"":[""Tristezza""]}]",31,548.477,"commento","2024-12-13T10:36:45.280070Z"
+
+35,"1","Titolo: Domanda veloce sulla lunghezza percorso psico terapeutico
+
+Salve a tutti, non la tirerò per le lunghe perchè vorrei andare dritto al sodo. 
+Quanto dovrebbe durare un percorso psicoterapeutico? C’è un limite oppure è un aiuto che può protrarsi a lungo nel tempo? Lo chiedo perché, senza dare troppi elementi personali della mia esperienza, mi ritrovo dopo 10 anni ad andare ancora dalla psicoterapeuta una volta alla settimana. Premetto che fino a 2 anni fa ci andavo due volte a settimana a causa di forti attacchi di panico e ansia. Ho dovuto diminuire ad una seduta per problemi lavorativi. I miglioramenti ci sono stati ma mi sono sempre chiesto se fosse normale una durata così lunga oppure non possa o sia diventata una “dipendenza” anche se non la vedo come tale.  Ringrazio tutti per un eventuale risposta soprattutto  per chi lavora nel settore.","2024-12-04T12:04:08.406712Z","[{""start"":148,""end"":200,""text"":""Quanto dovrebbe durare un percorso psicoterapeutico?"",""labels"":[""Aspettativa""]},{""start"":201,""end"":269,""text"":""C’è un limite oppure è un aiuto che può protrarsi a lungo nel tempo?"",""labels"":[""Aspettativa""]},{""start"":634,""end"":745,""text"":""mi sono sempre chiesto se fosse normale una durata così lunga oppure non possa o sia diventata una “dipendenza”"",""labels"":[""Aspettativa""]}]",32,159.928,"post","2024-12-04T12:04:08.406712Z"
+
+36,"1","Non so darti molti consigli ma ti dico solo che non è prevista nessuna guerra qui da noi. Non seguire più l'informazione italiana perché è sempre catastrofista pur di fare qualche views in più. Qui c'è spesso la notizia in prima pagina ""la Russia bla bla bla nucleare"" mentre nei giornali del resto del mondo la riportavano in seconda pagina e in maniera meno allarmante (giustamente).
+Poi il prossimo anno probabilmente ""finirà""","2024-12-04T12:05:38.970888Z","[{""start"":90,""end"":159,""text"":""Non seguire più l'informazione italiana perché è sempre catastrofista"",""labels"":[""Aspettativa""]},{""start"":386,""end"":429,""text"":""Poi il prossimo anno probabilmente \""finirà\"""",""labels"":[""Aspettativa""]}]",33,64.49,"commento","2024-12-04T12:05:38.970888Z"
+
+37,"1","Titolo: Sogni e significato
+
+Salve a tutti, recentemente ho fatto un sogno, ne ho un ricordo molto vago, ma riesco a ricordare nel sogno stavo inseguendo una persona (non ricordo chi fosse, ma era una donna) in un ambientazione di fantasia dove alla mia destra avevo un enorme cascata e io correvo radente ad essa sopra una passerella di legno e il mare alla mia sinistra. Ad un tratto mi ritrovo a casa mia nella mia stanza e una donna (non ricordo se era una mia professoressa delle scuole o una donna che conobbi tempo fa, mi da una busta per il mio compleanno (anche se nel periodo del sogno non lo era) e fuori la busta c’era questa frase: “IL SANGUE TI FOTTE LA VITA SE SEI FULMINATO”. Io non aprì quella busta e mi svegliai. Vorrei capire il significato di questa frase e perché mi è stata data da questa donna, probabilmente all’interno c’era il significato o una lettera che mi avrebbe spiegato cosa stesse succedendo, ma io non l’aprì mai. Ho provato a cercare un pò su internet ma non spunta nulla, cosa significa questa frase? 
+
+Ps: nel sogno appena lessi questa frase mi riempì di rabbia, ma non so perché…","2024-12-04T12:09:21.449253Z","[{""start"":732,""end"":817,""text"":""Vorrei capire il significato di questa frase e perché mi è stata data da questa donna"",""labels"":[""Aspettativa""]},{""start"":819,""end"":926,""text"":""probabilmente all’interno c’era il significato o una lettera che mi avrebbe spiegato cosa stesse succedendo"",""labels"":[""Aspettativa""]},{""start"":1010,""end"":1038,""text"":""cosa significa questa frase?"",""labels"":[""Aspettativa""]},{""start"":1081,""end"":1100,""text"":""mi riempì di rabbia"",""labels"":[""Rabbia""]}]",34,220.359,"post","2024-12-04T12:09:21.449253Z"
+
+38,"1","Titolo: Cucinare male...vediamo che sapete fare
+
+Hai mai trasformato un risotto in colla? O una carbonara in una frittata misteriosa? Ho creato una nuova community per noi chef disastrosi, dove condividere i nostri epici fallimenti in cucina e, chissà, magari migliorare (o peggiorare con stile). Che aspetti? Anche le tue peggiori creazioni meritano applausi... o almeno una buona risata! 😅https://www.reddit.com/r/cucinaremale/s/nDkVhXKiQX","2024-12-04T12:11:27.046206Z","[{""start"":24,""end"":47,""text"":""vediamo che sapete fare"",""labels"":[""Aspettativa""]},{""start"":49,""end"":89,""text"":""Hai mai trasformato un risotto in colla?"",""labels"":[""Aspettativa""]},{""start"":90,""end"":133,""text"":""O una carbonara in una frittata misteriosa?"",""labels"":[""Aspettativa""]},{""start"":297,""end"":309,""text"":""Che aspetti?"",""labels"":[""Aspettativa""]},{""start"":365,""end"":389,""text"":""almeno una buona risata!"",""labels"":[""Gioia""]}]",35,112.815,"post","2024-12-04T12:11:27.046206Z"
+
+40,"1","""Avevo un amico che si chiamava Grumvalski, siamo stati deportati insieme in Siberia. Quando ti portano in Siberia nei campi di lavoro, si viaggia nei carri bestiame e si traversano steppe ghiacciate per giorni e giorni senza vedere anima viva, ci si scalda l'uno con l'altro, ma il problema è che per liberarsi, per cacare, nel vagone non si può e le sole fermate sono quando bisogna mettere l'acqua nella locomotiva. Ma Grumvalski era parecchio timido e già quando dovevamo lavarci in gruppo si sentiva molto a disagio, io lo prendevo un po' in giro per via di questa storia, insomma il treno si ferma e tutti noi ne approfittiamo per andare a cacare dietro al vagone; ma io gli avevo talmente rotto le scatole al povero Grumvalski che lui decide di andarsene un po' lontano, insomma il treno riparte, tutti saltano su al volo perché il treno non aspetta, il problema è che Grumvalski che se n'era andato via dietro a un cespuglio, stava ancora cacando, allora lo vedo correre fuori da dietro il cespuglio, reggendosi con le mani i pantaloni per non farli cadere e tentando di raggiungere il treno. Io gli tendo la mano, ma come lui mi tende le sue deve mollare i pantaloni che gli cadono alle caviglie, ritira su i pantaloni e si rimette a correre e i pantaloni gli cascano tutte le volte che Grumvalski prova a tendermi le mani... Allora insomma che è successo? Niente, Grumvalski è morto di freddo. Arrivederci, arrivederci, arrivederci.""","2024-12-04T12:14:57.931879Z","[{""start"":484,""end"":520,""text"":""in gruppo si sentiva molto a disagio"",""labels"":[""Paura""]}]",36,190.79999999999998,"commento","2024-12-13T10:39:38.512927Z"
+
+39,"1",">allo stesso tempo mi schifa un po' quando gli altri la fanno e anche se sono puliti mi infastidisce l'idea
+
+Ti svelo un segreto.. la fanno tutti.. ma proprio tutti.. non solo gli essere umani.. tutti gli animali gli insetti.. di fatto tutti gli esseri viventi..","2024-12-04T12:12:31.472794Z","[{""start"":19,""end"":61,""text"":""mi schifa un po' quando gli altri la fanno"",""labels"":[""Disgusto""]},{""start"":84,""end"":107,""text"":"" mi infastidisce l'idea\\n"",""labels"":[""Rabbia""]}]",37,54.879,"commento","2024-12-04T12:12:31.472794Z"
+
+28,"1","Titolo: Impiego di risorse
+
+Buon pomeriggio a tutti, voglio sottoporvi un pensiero causato dall'avere tanto tempo libero in questo momento.
+
+In caso di chiamata alle armi in un'ipotetica guerra, uno stato, prendiamo ad esempio l'Italia, potrebbe arruolare in modo coatto tutti i personaggi che circolano illegalmente sul suolo nazionale in guerra? Andrebbe contro qualche legge nazionale o internazionale?","2024-12-10T12:10:23.062133Z","[{""start"":8,""end"":26,""text"":""Impiego di risorse"",""labels"":[""Aspettativa""]},{""start"":348,""end"":405,""text"":""Andrebbe contro qualche legge nazionale o internazionale?"",""labels"":[""Aspettativa""]},{""start"":237,""end"":347,""text"":""potrebbe arruolare in modo coatto tutti i personaggi che circolano illegalmente sul suolo nazionale in guerra?"",""labels"":[""Aspettativa""]}]",28,64.507,"post","2024-12-10T12:10:23.062133Z"
+
+29,"1","Titolo: Quanto sono belle le ragazze
+
+La faccio breve: sabato è stato il mio compleanno ma, per fisse mentali mie, i miei amici non lo sapevano. Mi stavo rompendo le balle a casa, quindi ho deciso di ragiungerli al bar dove erano. Il caso ha voluto che proprio quel giorno uno dei miei amici avesse il dubbio e me lo ha chiesto. Dopo essermi rifiutato un paio di volte, alla fine ho ceduto e, increduli, li ho fatto vedere la mia patente.
+
+Sono venuti quindi uno per uno a farmi gli auguri, scena molto commovente, con parole di incoragiamento e cortesie varie. Il fatto è che quando questa mia amica è venuta a farmi gli auguri, mi ha abbracciato di lato, mi ha detto due cose e poi mi ha dato un bacio sulla guancia. Non me lo aspettavo per nulla e mi sono venuti i brividi al sentire il calore del suo corpo.
+
+Non voglio sembrare un pervertito, perché non c'è uno sfondo sessuale nelle mie parole, ma sono rimasto abbastanza sorpreso di quanto siano mordibe le ragazze. Di quanto sia gradevole il loro odore e di quanto mi sia cambiato l'umore dopo quell semplice bacio. Ma la cosa che mi sorprende di più è quanto peso ho dato alle sue parole.
+
+Le ragazze sono veramente magiche","2024-12-10T12:17:23.733360Z","[{""start"":8,""end"":36,""text"":""Quanto sono belle le ragazze"",""labels"":[""Aspettativa""]},{""start"":719,""end"":748,""text"":""Non me lo aspettavo per nulla"",""labels"":[""Sorpresa""]},{""start"":904,""end"":971,""text"":""sono rimasto abbastanza sorpreso di quanto siano mordibe le ragazze"",""labels"":[""Sorpresa""]},{""start"":1149,""end"":1182,""text"":""Le ragazze sono veramente magiche"",""labels"":[""Gioia""]}]",29,501.053,"post","2024-12-22T16:03:40.122692Z"
+
+43,"1","fica sta cosa che farsi piacere la figa è da pervertiti. certo se ti basta così poco più che altro non l hai mai vista… ma non c è nulla di strano. la natura ti ha pensato per quello…","2024-12-10T11:57:38.579040Z","[{""start"":63,""end"":119,""text"":""se ti basta così poco più che altro non l hai mai vista…"",""labels"":[""Sorpresa""]}]",40,145.778,"commento","2024-12-11T09:32:37.866508Z"
+
+30,"1","Non capisco come mai la gente si meravigli del fatto che chi non ha mai la fortuna di ricevere i loro baci e sentire quel calore invece la pensi nella maniera totalmente opposta. Anche io ho avuto questi pensieri quelle volte che mi è capitato di scopare.","2024-12-10T12:22:30.201906Z","[{""start"":0,""end"":42,""text"":""Non capisco come mai la gente si meravigli"",""labels"":[""Rabbia""]}]",31,228.49,"commento","2024-12-10T12:22:30.201906Z"
+
+31,"1","Eh si amico mio, sono davvero meravigliose. Un qualsiasi gesto d'affetto da parte di una donna (familiare, amica o fidanzata che sia) ha tutto un altro effetto","2024-12-10T12:22:49.304187Z","[{""start"":17,""end"":42,""text"":""sono davvero meravigliose"",""labels"":[""Gioia""]}]",32,16.219,"commento","2024-12-10T12:22:49.304187Z"
+
+32,"1","Non penso ci sia nulla di strano in quello che dici, mi auguro per te che tu possa sentire ancora e molto più spesso quel calore, soprattutto al cuore.","2024-12-10T12:23:53.709234Z","[{""start"":53,""end"":128,""text"":""mi auguro per te che tu possa sentire ancora e molto più spesso quel calore"",""labels"":[""Gioia""]}]",33,61.666,"commento","2024-12-10T12:23:53.709234Z"
+
+33,"1","Noooo che schifo bleeeee  
+io devo sempre prendere lo sciroppo antivomito prima di uscire perché già so che le incontrerò e mi saliranno i rigurgiti :(","2024-12-10T12:24:25.421966Z","[{""start"":0,""end"":16,""text"":""Noooo che schifo"",""labels"":[""Disgusto""]},{""start"":124,""end"":148,""text"":""mi saliranno i rigurgiti"",""labels"":[""Disgusto""]}]",34,29.253,"commento","2024-12-10T12:24:25.421966Z"
+
+34,"1","Titolo: Che si fa questo capodanno
+
+Ho bisogno di aiuto ho 0 idee per questo capodanno. Che si può fare di non troppo costoso e senza andare in discoteca? So che si potrebbe solo stare a casa a chillare ma volevo fare qualcosa di diverso quest'anno visto che ho fatto i 18. Vi prego datemi idee di posti, eventi o consigli su che fare in Italia.","2024-12-10T12:25:16.059063Z","[{""start"":8,""end"":34,""text"":""Che si fa questo capodanno"",""labels"":[""Aspettativa""]},{""start"":88,""end"":154,""text"":""Che si può fare di non troppo costoso e senza andare in discoteca?"",""labels"":[""Aspettativa""]},{""start"":274,""end"":294,""text"":""Vi prego datemi idee"",""labels"":[""Aspettativa""]}]",35,107.184,"post","2024-12-22T16:06:22.379936Z"
+
+35,"1","Non iniziate perfavore a rompere col capodanno anche su reddit  che è già il 15esimo post che vedo e già sto evitando i miei amici da 1 mese (3 weeks to go) per cercare di risparmiarmi questo strazio. Vengo su reddit a buttare il tempo extra che ho a lavoro, fate un piacere. Eddai.","2024-12-10T12:27:16.336265Z","[{""start"":0,""end"":46,""text"":""Non iniziate perfavore a rompere col capodanno"",""labels"":[""Rabbia""]},{""start"":101,""end"":140,""text"":""già sto evitando i miei amici da 1 mese"",""labels"":[""Rabbia""]},{""start"":259,""end"":274,""text"":""fate un piacere"",""labels"":[""Aspettativa""]}]",36,117.331,"commento","2024-12-10T12:27:16.336265Z"
+
+36,"1","Titolo: Nord vpn vs express vpn
+
+Le usate? Avete avuto modo di provarle? Che idea vi siete fatti? Quale scegliereste?
+
+#software #informatica","2024-12-10T12:28:14.573565Z","[{""start"":8,""end"":31,""text"":""Nord vpn vs express vpn"",""labels"":[""Aspettativa""]},{""start"":33,""end"":42,""text"":""Le usate?"",""labels"":[""Aspettativa""]},{""start"":43,""end"":72,""text"":""Avete avuto modo di provarle?"",""labels"":[""Aspettativa""]},{""start"":73,""end"":97,""text"":""Che idea vi siete fatti?"",""labels"":[""Aspettativa""]},{""start"":98,""end"":117,""text"":""Quale scegliereste?"",""labels"":[""Aspettativa""]}]",37,54.302,"post","2024-12-10T12:28:14.573565Z"
+
+37,"1","Titolo: Penso… quali sono i veri e più urgenti problemi socio-economici che affliggono la nostra nazione.
+
+Sanità, Politica, Tasse, Burocrazia, Lavoro, Istruzione. Idee?","2024-12-10T12:29:14.674662Z","[{""start"":15,""end"":104,""text"":""quali sono i veri e più urgenti problemi socio-economici che affliggono la nostra nazione"",""labels"":[""Aspettativa""]},{""start"":164,""end"":169,""text"":""Idee?"",""labels"":[""Aspettativa""]}]",38,20.753,"post","2024-12-10T12:29:14.674662Z"
+
+66,"1","OP quelli che metti in lista sono effetti, non cause. I problemi sono le cause come l'ignoranza della gente, l'assenza di valori dettata da un voler vivere da furbi anziché far le cose per bene davvero.... in meno parole, i problemi urgenti sono la gente di merda che si riproduce e quella che importiamo e lasciamo stare sul Paese perché c'è altra gente di merda che l'aiuta a venire e restare o procreare impunemente. Qui si tratta e si è sempre trattato di gente di merda. L'italia non è una nazione e non lo è mai stata perché c'è troppa gente di merda e troppa gente di merda diversa in ogni regione. Ricordati sempre che c'è voluto un francese per creare l'Italia moderna e questa ferita non è qualcosa che si rimargina. La nostra nazione non esiste se non sulla carta, pertanto tutti si sentono autorizzati nel fotterla, ovvero nel fottere il proprio vicino e tutti quelli che stanno attorno.","2024-12-22T16:10:15.194368Z","[{""start"":222,""end"":304,""text"":""i problemi urgenti sono la gente di merda che si riproduce e quella che importiamo"",""labels"":[""Rabbia""]}]",39,209.161,"commento","2024-12-22T16:10:15.194368Z"
+
+38,"1","Titolo: Sono diventato multimilionario prima dei 30. AMA!
+
+Hey Reddit! Ho 30 anni e qualche anno fa ho avviato una mia azienda nel settore petrolifero qui in Italia. È stato un percorso folle, con un sacco di errori e qualche colpo di fortuna.
+
+Non sono nato ricco, ma ho sempre avuto un’ossessione per il lavoro e le opportunità giuste. Ora la mia vita è parecchio diversa da quando ho iniziato, ma cerco di rimanere coi piedi per terra (più o meno 😅).
+
+Se vi siete mai chiesti com’è lavorare in un settore come questo, fare impresa in Italia, o semplicemente cosa faccio nel tempo libero, chiedete pure. AMA!
+
+EDIT: È triste vedere come in Italia l’invidia spesso superi la curiosità. Invece di usare questa opportunità per fare domande utili o imparare qualcosa, molti preferiscono perdere tempo con battute sterili o provocazioni. Per chi invece vuole conversazioni intelligenti: sono qui, approfittatene.","2024-12-10T14:02:45.026014Z","[{""start"":8,""end"":51,""text"":""Sono diventato multimilionario prima dei 30"",""labels"":[""Aspettativa""]},{""start"":617,""end"":685,""text"":"" È triste vedere come in Italia l’invidia spesso superi la curiosità"",""labels"":[""Tristezza""]},{""start"":687,""end"":764,""text"":""Invece di usare questa opportunità per fare domande utili o imparare qualcosa"",""labels"":[""Tristezza""]},{""start"":835,""end"":882,""text"":""Per chi invece vuole conversazioni intelligenti"",""labels"":[""Aspettativa""]}]",40,167.757,"post","2024-12-10T14:02:45.026014Z"
+
+53,"1","@gferox94 
+Così faccio un paio di bei regali ai miei. Vediamo se sei veramente tanto multi
+
+/s ma non troppo","2024-12-10T12:13:35.393196Z","[{""start"":54,""end"":90,""text"":""Vediamo se sei veramente tanto multi"",""labels"":[""Aspettativa""]}]",51,34.194,"commento","2024-12-10T12:13:55.682558Z"
+
+39,"1","Post indirizzato a quelle persone che invece di scegliere l'aiuto professionale preferiscono intraprendere l'autoaiuto. Si invita ad evitare post semplicistici e banali. Sono benvenuti consigli adeguati e incoraggiamenti.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/psicologia) if you have any questions or concerns.*","2024-12-10T14:06:15.470478Z","[{""start"":120,""end"":168,""text"":""Si invita ad evitare post semplicistici e banali"",""labels"":[""Aspettativa""]},{""start"":170,""end"":220,""text"":""Sono benvenuti consigli adeguati e incoraggiamenti"",""labels"":[""Aspettativa""]}]",42,195.972,"commento","2024-12-10T14:06:15.470478Z"
+
+40,"1","Non saprei ma anche io, soprattutto sulle questioni lavorative, mi ci rivedo.  
+Questa mia fretta o essere irrequieto, mi porta molte volte a commettere dei piccoli errori.
+
+Associo però questa fretta al pensiero di dovermi togliere tutte le incombenze per poter cominciare a vivere (ovvero seguire i miei interesse e fare quello che voglio fare in quel momento).","2024-12-10T14:07:23.879341Z","[{""start"":174,""end"":252,""text"":""Associo però questa fretta al pensiero di dovermi togliere tutte le incombenze"",""labels"":[""Tristezza""]}]",43,65.869,"commento","2024-12-10T14:07:23.879341Z"
+
+41,"1","Titolo: Andare a fare compere mi mette a disagio
+
+Ciao a tuttə, negli ultimi tempi ho vissuto abbastanza lontano dalla mia famiglia e dai miei affetti, puntualizzo perché credo sia stato quello il momento in cui mi sono ritrovatə a dover fare compere da solə e sentirmi tremendamente a disagio. 
+Riesco solo al supermercato senza farmi pare, anzi devo dire che mi piace proprio fare la spesa. 
+Ma da tutti quei negozi di altro tipo non riesco mai ad uscire con qualcosa, anche se ne ho necessità, entro ed esco quasi subito.
+Vorrei tanto sentirmi a mio agio durante questi momenti e viverli in maniera normale.","2024-12-10T14:13:25.818709Z","[{""start"":8,""end"":48,""text"":""Andare a fare compere mi mette a disagio"",""labels"":[""Aspettativa""]},{""start"":525,""end"":580,""text"":""Vorrei tanto sentirmi a mio agio durante questi momenti"",""labels"":[""Aspettativa""]},{""start"":261,""end"":293,""text"":""sentirmi tremendamente a disagio"",""labels"":[""Paura""]}]",44,357.901,"post","2024-12-10T14:13:25.818709Z"
+
+42,"1","E da cosa nasce questo disagio? Perché eri abituata a fare compere con i tuoi forse? Vorresti qualcuno che ti consigliasse?","2024-12-11T17:58:23.462479Z","[{""start"":0,""end"":31,""text"":""E da cosa nasce questo disagio?"",""labels"":[""Aspettativa""]},{""start"":85,""end"":123,""text"":""Vorresti qualcuno che ti consigliasse?"",""labels"":[""Aspettativa""]},{""start"":32,""end"":84,""text"":""Perché eri abituata a fare compere con i tuoi forse?"",""labels"":[""Aspettativa""]}]",45,966.558,"commento","2024-12-11T17:58:23.462479Z"
+
+43,"1","A volte però sembra quasi che vi sforziate per trovare pare sempre più bizzarre. Ma fermarsi a riconsiderare le proprie scelte di vita no? O forse è meglio andare a vivere in un paese del terzo mondo... non saprei. Qui siamo proprio fuori dalla terapia più semplice.","2024-12-11T17:59:31.238225Z","[{""start"":84,""end"":138,""text"":""fermarsi a riconsiderare le proprie scelte di vita no?"",""labels"":[""Aspettativa""]},{""start"":141,""end"":199,""text"":""forse è meglio andare a vivere in un paese del terzo mondo"",""labels"":[""Tristezza""]}]",46,64.419,"commento","2024-12-11T17:59:31.238225Z"
+
+44,"1","OP, da estranea a estraneə, mi dispiace per come ti senti.
+
+
+E questo è tutto quello che si può dire. Il resto saranno osservazioni per cui potresti non essere prontə.
+
+
+
+Purtroppo non si può aggiungere altro, e sembra che il messaggio sia stato scritto per sentirti dire questo, magari con parole più lunghe, senza voler intraprendere alcuna azione per star meglio.
+
+
+Mancano informazioni. Dici solo (e molto, molto vagamente) in che situazioni ti senti a disagio, ma non in che modo, o in cosa consistano queste ""pare"".
+
+
+È difficile aiutarti senza dettagli.
+
+
+E se leggo bene, non chiedi nemmeno aiuti o consigli, ma dici solo come ti senti e come ti vorresti sentire. Il che rende difficile poter rispondere in qualunque altro modo.
+
+
+Allungare il brodo del ""mi dispiace per come ti senti"" non mi sembrava il caso. Il sub si chiama ""psicologia"", non ""parole di conforto"". La psicologia presuppone obiettivi di salute mentale, contesto, e dettagli.","2024-12-11T18:03:09.789171Z","[{""start"":28,""end"":57,""text"":""mi dispiace per come ti senti"",""labels"":[""Tristezza""]},{""start"":171,""end"":208,""text"":""Purtroppo non si può aggiungere altro"",""labels"":[""Tristezza""]},{""start"":580,""end"":615,""text"":""non chiedi nemmeno aiuti o consigli"",""labels"":[""Disgusto""]}]",47,216.605,"commento","2024-12-11T18:03:09.789171Z"
+
+45,"1","Se non sei a tuo agio neanche col tuo genere, difficile esserlo su cose più complesse. Sbaglio? Inizierei da li fossi in te","2024-12-11T18:05:06.911137Z","[{""start"":87,""end"":95,""text"":""Sbaglio?"",""labels"":[""Aspettativa""]},{""start"":96,""end"":123,""text"":""Inizierei da li fossi in te"",""labels"":[""Aspettativa""]}]",48,115.715,"commento","2024-12-11T18:05:06.911137Z"
+
+46,"1","Titolo: Nuove amicizie
+
+Ciao a tutti,sono una ragazza di 20 anni,e mi piacerebbe fare nuove amicizie nella comunità LGBTQ+,io sono Bi.
+Ho un po' di difficoltà a farlo dal vivo,quindi sono qui per provare a conoscere persone online. 
+Se qualcuno vuole chiacchierare,sarei felice di farlo.","2024-12-11T18:05:40.688656Z","[{""start"":8,""end"":22,""text"":""Nuove amicizie"",""labels"":[""Aspettativa""]},{""start"":233,""end"":264,""text"":""Se qualcuno vuole chiacchierare"",""labels"":[""Aspettativa""]},{""start"":265,""end"":286,""text"":""sarei felice di farlo"",""labels"":[""Aspettativa""]}]",49,31.157,"post","2024-12-11T18:05:40.688656Z"
+
+47,"1","Titolo: Donne 40+: cosa vi fa matchare sulle app di dating?
+
+Sto cercando di rendere il mio profilo su app di dating più attrattivo per il tipo di donne che vorrei conoscere (40+, femminili, acculturate). Sono femminile, di bell’aspetto, arguta e acculturata a mia volta, ma ho l’impressione che qualcosa non funzioni. Quindi, cosa vi spinge a fare match? E cosa a scartare? (Non sto cercando di sembrare una persona che non sono, ma solo di essere più approcciabile per poter entrare in contatto).","2024-12-11T18:06:56.602142Z","[{""start"":8,""end"":59,""text"":""Donne 40+: cosa vi fa matchare sulle app di dating?"",""labels"":[""Aspettativa""]},{""start"":327,""end"":355,""text"":""cosa vi spinge a fare match?"",""labels"":[""Aspettativa""]},{""start"":358,""end"":374,""text"":""cosa a scartare?"",""labels"":[""Aspettativa""]},{""start"":275,""end"":317,""text"":""ho l’impressione che qualcosa non funzioni"",""labels"":[""Tristezza""]}]",50,65.209,"post","2024-12-11T18:06:56.602142Z"
+
+48,"1","L’aspetto fisico, come nella vita reale…alla descrizione non do molto peso (a meno che non emerga una certa arroganza), preferisco la comunicazione diretta per farmi un’idea di una persona 
+Comunque le difficoltà di match/incontri nelle app per donne sono la regola…purtroppo…","2024-12-11T18:08:32.387690Z","[{""start"":190,""end"":265,""text"":""Comunque le difficoltà di match\/incontri nelle app per donne sono la regola"",""labels"":[""Tristezza""]}]",51,110.89,"commento","2024-12-22T16:28:47.478259Z"
+
+49,"1","Su che app di dating ti trovi di solito? Anche quello purtroppo ho visto essere un dato utile da analizzare.","2024-12-11T18:09:28.922064Z","[{""start"":0,""end"":40,""text"":""Su che app di dating ti trovi di solito?"",""labels"":[""Aspettativa""]},{""start"":41,""end"":107,""text"":""Anche quello purtroppo ho visto essere un dato utile da analizzare"",""labels"":[""Tristezza""]}]",52,18.886,"commento","2024-12-11T18:09:28.922064Z"
+
+50,"1","Titolo: Archivi della Folgoluce 5
+
+Ciao a tutti, ma si sa qualcosa dell'uscita in Italiano del quinto folgoluce? Il quarto era uscito in contemporanea all'inglese ma di questo non trovo traccia. 
+
+Se proprio devo lo leggerò in inglese ma mi sono talmente affezionato alle traduzioni italiane di tutti i neologismi di Sanderson che potendo preferirei la nostra traduzione, per altro ottima a mio parere.","2024-12-11T18:11:10.127340Z","[{""start"":8,""end"":33,""text"":""Archivi della Folgoluce 5"",""labels"":[""Aspettativa""]},{""start"":52,""end"":112,""text"":""si sa qualcosa dell'uscita in Italiano del quinto folgoluce?"",""labels"":[""Aspettativa""]},{""start"":197,""end"":212,""text"":""Se proprio devo"",""labels"":[""Tristezza""]},{""start"":339,""end"":370,""text"":""preferirei la nostra traduzione"",""labels"":[""Gioia""]}]",53,99.074,"post","2024-12-11T18:11:10.127340Z"
+
+51,"1","Ho controllato anche io oggi, ma nulla, non si sa niente, la Mondadori è stata molto silenziosa al riguardo. Francamente non me lo aspetterei per quest'anno.","2024-12-11T18:11:39.728664Z","[{""start"":109,""end"":156,""text"":""Francamente non me lo aspetterei per quest'anno"",""labels"":[""Tristezza""]}]",54,27.407,"commento","2024-12-11T18:11:39.728664Z"
+
+52,"1","Il libro più emotivamente devastante che abbia letto in vita mia. Ho pianto tutte le mie lacrime. Ci sono stati certi punti in cui ho dovuto interrompere la lettura e riprenderla solo dopo essermi dedicata ad altro e aver cambiato pensiero. Secondo me una storia tragica, sublime, perfetta nel capire le emozioni umane e nel trasmettere quanto possano essere complicate, specialmente quando sono diverse da quelle che ci aspetteremmo. Per la mia personalissima opinione personale, un capolavoro","2024-12-11T18:18:09.338410Z","[{""start"":0,""end"":64,""text"":""Il libro più emotivamente devastante che abbia letto in vita mia"",""labels"":[""Tristezza""]},{""start"":66,""end"":96,""text"":""Ho pianto tutte le mie lacrime"",""labels"":[""Tristezza""]}]",55,412.10900000000004,"commento","2024-12-22T16:15:25.469822Z"
+
+53,"1","Titolo: norvegian woods di murakami
+
+Sono circa a metà libro e lo sto trovando davvero devastante da leggere, ed in senso negativo. Mi risulta davvero noiosissimo e le descrizioni dei personaggi femminili sono così irreali e boriose veramente da farmi girare gli occhi per la noia.
+
+  
+edit: mannaggia al cristo sono arrivata alla parte in cui Reiko parla di quello che è successo con la ragazza di tredici anni e sinceramente non ho parole (solo  bestemmie) per esprimere quanto sia becera la scrittura","2024-12-11T18:19:48.650706Z","[{""start"":8,""end"":35,""text"":""norvegian woods di murakami"",""labels"":[""Aspettativa""]},{""start"":63,""end"":108,""text"":""lo sto trovando davvero devastante da leggere"",""labels"":[""Tristezza""]},{""start"":132,""end"":162,""text"":""Mi risulta davvero noiosissimo"",""labels"":[""Disgusto""]},{""start"":165,""end"":281,""text"":""le descrizioni dei personaggi femminili sono così irreali e boriose veramente da farmi girare gli occhi per la noia."",""labels"":[""Disgusto""]},{""start"":292,""end"":411,""text"":""mannaggia al cristo sono arrivata alla parte in cui Reiko parla di quello che è successo con la ragazza di tredici anni"",""labels"":[""Rabbia""]},{""start"":414,""end"":440,""text"":""sinceramente non ho parole"",""labels"":[""Sorpresa""]},{""start"":459,""end"":503,""text"":""per esprimere quanto sia becera la scrittura"",""labels"":[""Disgusto""]}]",56,97.27,"post","2024-12-11T18:19:48.650706Z"
+
+54,"1","Non ho mai trovato pesante o noioso Murakami, anzi, ma Norwegian Wood effettivamente è un po' differente da buona parte della sua produzione narrativa.
+Ti lascio sotto un commento che avevo fatto per un altro post dove si chiedevano consigli sulla sua opera, magari scopri qualcosa di interessante! 
+
+Il suo capolavoro secondo me è ""L'uccello che girava le viti del mondo"", compendio dell'atmosfera tipica di Murakami, a metà fra nostalgia, sogno e introspezione. Nella stessa vena trovi ""Nel segno della pecora"" e il suo seguito ""Dance dance dance"".
+Per una virata verso il fantastico ""La fine del mondo e il paese delle meraviglie"". 
+
+Molto belli anche i racconti, come quelli della raccolta ""I salici ciechi e la donna addormentata"" 
+
+Poi a chi legge il giapponese consiglio sempre la produzione saggistica breve come 村上朝日堂 o 村上ラジオ. Piccoli saggi di poche pagine sulla vita quotidiana a Tokyo. Anche i diari di viaggio in Italia (遠い太鼓) e le collaborazioni con l'illustratore Anzai Mizumaru (ランゲルハンス島の午後) non sono male. Nessuno di questi si trova in traduzione purtroppo.","2024-12-11T18:22:40.126941Z","[{""start"":301,""end"":372,""text"":""Il suo capolavoro secondo me è \""L'uccello che girava le viti del mondo\"""",""labels"":[""Tristezza""]},{""start"":768,""end"":815,""text"":""consiglio sempre la produzione saggistica breve"",""labels"":[""Aspettativa""]},{""start"":1022,""end"":1072,""text"":""Nessuno di questi si trova in traduzione purtroppo"",""labels"":[""Tristezza""]}]",57,157.582,"commento","2024-12-11T18:22:40.126941Z"
+
+55,"1","Ti capisco, ho avuto un'esperienza simile leggendo questo libro. Sapevo che generalmente le persone lo amano, è uno dei libri più conosciuti dello scrittore e così me lo sono fatto prestare. 
+
+Mi ha messo depressione, eppure leggo libri ""deprimenti"" di ogni sorta. Per me è stato pesante proseguire nella lettura ma ho voluto finirlo comunque.
+
+Tempo dopo ho provato a leggere una breve raccolta di racconti, sempre di Murakami, ""Tutti i figli di Dio danzano"" e ho potuto constatare che sia proprio la scrittura a non piacermi troppo. Ho ritrovato quella pesantezza. Probabilmente non fa per me.","2024-12-11T18:24:20.890282Z","[{""start"":193,""end"":216,""text"":""Mi ha messo depressione"",""labels"":[""Tristezza""]},{""start"":265,""end"":312,""text"":""Per me è stato pesante proseguire nella lettura"",""labels"":[""Tristezza""]},{""start"":567,""end"":594,""text"":""Probabilmente non fa per me"",""labels"":[""Tristezza""]},{""start"":462,""end"":533,""text"":""ho potuto constatare che sia proprio la scrittura a non piacermi troppo"",""labels"":[""Tristezza""]},{""start"":356,""end"":407,""text"":""ho provato a leggere una breve raccolta di racconti"",""labels"":[""Aspettativa""]}]",58,108.53599999999999,"commento","2024-12-11T18:24:34.675104Z"
+
+56,"1","La visione delle donne in Murakami-autore è un argomento a sé... onestamente non ho mai avuto problemi a leggere autori realmente misogini purché riuscissero a tratteggiare decentemente i personaggi femminili (o semplicemente si focalizzassero su quelli maschili)... Purtroppo lui (a prescindere da lui-persona, non mi interessa quello) è proprio incapace come scrittore in quel senso, ha una visione delle donne la cui caratteristica principale è letteralmente essere donna e, come seconda caratteristica, accorgersi continuamente di avere un corpo 😂 il problema è che ne parla, alla terza volta purtroppo è già troppo. 
+
+
+È una di quelle cose che, se costituiscono un problema (e secondo me lo è, assolutamente), rendono impossibile apprezzarlo. Tanti autori uomini riescono quantomeno a fare lo sforzo, non vedo perché torturarmi con lui ecco.","2024-12-11T18:27:11.372909Z","[{""start"":267,""end"":384,""text"":""Purtroppo lui (a prescindere da lui-persona, non mi interessa quello) è proprio incapace come scrittore in quel senso"",""labels"":[""Tristezza""]}]",59,154.229,"commento","2024-12-11T18:27:11.372909Z"
+
+57,"1","Ho avuto la tua stessa esperienza, soprattutto il fastidio per i personaggi femminili, che come scrive l'altro commentatore non sarebbe così tragico se non ne parlasse IN CONTINUAZIONE.  Comunque devo dire che non mi è dispiaciuto finirlo perché soprattutto verso la fine ero abbastanza curiosa di vedere dove sarebbe andato a parare. Detto ciò, non penso che ne leggerò un altro suo. Ma mi sono proprio resa conto di avere un problema con gli autori giapponesi in generale, dovrei provare con un'autrice.","2024-12-11T18:30:02.278749Z","[{""start"":0,""end"":85,""text"":""Ho avuto la tua stessa esperienza, soprattutto il fastidio per i personaggi femminili"",""labels"":[""Disgusto""]},{""start"":346,""end"":383,""text"":""non penso che ne leggerò un altro suo"",""labels"":[""Disgusto""]}]",60,168.56,"commento","2024-12-11T18:30:02.278749Z"
+
+58,"1","Titolo: Santuario di William Faulkner
+
+Mi è stato regalato al mio compleanno questo libro di Faulkner, autore che conosco di fama ma che non ho ancora mai letto. Qualcuno di voi conosce bene già l’autore ed, in particolare, il libro in questione? Se si, che ne pensate? È un buon libro per iniziare ad avvicinarsi a questo scrittore?","2024-12-11T18:31:15.251467Z","[{""start"":8,""end"":37,""text"":""Santuario di William Faulkner"",""labels"":[""Aspettativa""]},{""start"":162,""end"":204,""text"":""Qualcuno di voi conosce bene già l’autore "",""labels"":[""Aspettativa""]},{""start"":254,""end"":269,""text"":""che ne pensate?"",""labels"":[""Aspettativa""]},{""start"":270,""end"":333,""text"":""È un buon libro per iniziare ad avvicinarsi a questo scrittore?"",""labels"":[""Aspettativa""]}]",61,69.056,"post","2024-12-11T18:31:15.251467Z"
+
