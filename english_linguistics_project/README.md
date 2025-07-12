@@ -36,13 +36,8 @@ Per ogni battuta sono stati annotati:
 
 ---
 
-## 📌 Perché è rilevante
-
-Questo progetto mostra:
-
-- Competenze di **analisi pragmatica e linguistica**
-- Capacità di applicare **modelli teorici complessi** a dialoghi reali
-- Sensibilità ai meccanismi comunicativi nella lingua inglese
+## Contesto
+Questo progetto unisce cinema, linguistica e comunicazione, mostrando come le teorie pragmatiche possono essere applicate a dialoghi reali per interpretare le intenzioni dei personaggi.
 
 ---
 
