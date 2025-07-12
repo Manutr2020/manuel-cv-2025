@@ -11,11 +11,11 @@ Junior Digital Humanist con interesse per linguistica computazionale, tecnologie
 
 - **NFT & Copyright**  
   Presentazione realizzata per l'esame di diritto dei dati. Analizza le implicazioni legali degli NFT, con focus su copyright, MiCAR e MiFID II.  
-  *(File: PROGETTO DIRITTO.pdf)*
+  *(File: nft-copyright)*
 
 - **Cybersecurity per le Digital Humanities**  
   Studio e applicazione dell'analisi statica del codice con Bandit e Pylint su script Python insicuri.  
-  *(File: Cybersecurity per DH.pptx)*
+  *(File: cybersec-sast-bandit-pylint)*
 
 - **Annotazione del Sentiment su Reddit**  
   Progetto di sentiment analysis basato sulla ruota delle emozioni di Plutchik. Annotazione manuale di post e commenti Reddit tramite Label Studio.  
