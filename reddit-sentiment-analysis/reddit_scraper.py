@@ -6,9 +6,9 @@ import datetime
 
 # Configurazione dell'API
 reddit = praw.Reddit(
-    client_id=os.getenv("REDDIT_CLIENT_ID"),
-    client_secret=os.getenv("REDDIT_CLIENT_SECRET"),
-    user_agent=os.getenv("REDDIT_USER_AGENT")
+    client_id = os.getenv('REDDIT_CLIENT_ID')
+    client_secret = os.getenv('REDDIT_CLIENT_SECRET')
+    user_agent = os.getenv('REDDIT_USER_AGENT')
 )
 
 # Controllo credenziali
@@ -19,35 +19,44 @@ if not all([reddit.client_id, reddit.client_secret, reddit.user_agent]):
 data = []
 
 # Nome del subreddit
-subreddit_name = 'TeenagersITA'
+subreddit_name = 'subreddit'
 subreddit = reddit.subreddit(subreddit_name)
+
+# Funzione per contare le parole
+def conta_parole(testo):
+    return len(testo.split())
 
 # Estrazione dei dati
 try:
-    for post in subreddit.new(limit=4):  # Limite massimo di 10 post
+    for post in subreddit.new(limit=4):  # Limite massimo di 4 post
         if post.is_self:
             try:
                 # Assicurati che il titolo e il contenuto siano presenti
                 titolo = post.title.strip() if post.title else "Titolo non disponibile"
                 testo = post.selftext.strip() if post.selftext else "Testo non disponibile"
+                testo_completo = f"Titolo: {titolo}\n\n{testo}"
 
-                # Aggiungi il post come elemento
-                data.append({
-                    "tipo": "post",
-                    "contenuto": f"Titolo: {titolo}\n\n{testo}"
-                })
+                # Controlla la lunghezza del post
+                if 20 <= conta_parole(testo_completo) <= 300:
+                    # Aggiungi il post come elemento
+                    data.append({
+                        "tipo": "post",
+                        "contenuto": testo_completo
+                    })
 
-                # Recupera un massimo di 5 commenti non rimossi/eliminati
+                # Recupera un massimo di 7 commenti non rimossi/eliminati
                 post.comments.replace_more(limit=0)  # Rimuovi i placeholder dei commenti
                 count = 0
                 for comment in post.comments:
-                    if comment.body.strip() and comment.body != "[removed]" and comment.body != "[deleted]":
-                        data.append({
-                            "tipo": "commento",
-                            "contenuto": comment.body.strip()
-                        })
-                        count += 1
-                    if count >= 7:  # Ferma dopo 5 commenti
+                    commento = comment.body.strip()
+                    if commento and commento != "[removed]" and commento != "[deleted]":
+                        if 20 <= conta_parole(commento) <= 300:
+                            data.append({
+                                "tipo": "commento",
+                                "contenuto": commento
+                            })
+                            count += 1
+                    if count >= 7:  # Ferma dopo 7 commenti
                         break
 
                 # Rispetta i limiti dell'API
