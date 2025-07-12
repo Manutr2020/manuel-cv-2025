@@ -2,7 +2,7 @@
 CV e progetti di Digital Humanities – Manuel Trombetta
 # Curriculum Vitae – Manuel Trombetta
 
-Questa repository raccoglie il mio CV aggiornato e alcuni dei progetti accademici e personali che ho realizzato durante il mio percorso magistrale in Digital Humanities all’Università L'Orientale di Napoli.
+Questa repository raccoglie il mio CV aggiornato e alcuni dei progetti accademici e personali che ho realizzato durante il mio percorso di studi all’Università L'Orientale di Napoli.
 
 ## 👨‍💻 Chi sono
 Junior Digital Humanist con interesse per linguistica computazionale, tecnologie del linguaggio, cybersecurity e dati culturali. Lavoro spesso in gruppo su progetti digitali e sono rappresentante del mio corso di studi.
@@ -24,5 +24,10 @@ Junior Digital Humanist con interesse per linguistica computazionale, tecnologie
 - **Sito web per studenti DH**  
   Web app (Flask + JS) per condividere risorse, eventi e informazioni utili tra gli studenti della magistrale. In fase di sviluppo.
 
+- **Analisi Pragmatica di *Gone Girl***  
+  Progetto svolto per l’esame di Lingua Inglese II.  
+  Analisi linguistica e pragmatica di una scena del film *Gone Girl*, basata su nozioni come implicature conversazionali, atti linguistici, presupposizioni,        violazioni delle massime di Grice e strategie comunicative.  
+  *(File: gone-girl-pragmatics-analysis)*
+  
 ## 📎 CV
 Il mio curriculum è disponibile nel file PDF allegato: `manuel-trombetta-cv.pdf`
