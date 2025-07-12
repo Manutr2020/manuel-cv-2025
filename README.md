@@ -19,7 +19,7 @@ Junior Digital Humanist con interesse per linguistica computazionale, tecnologie
 
 - **Annotazione del Sentiment su Reddit**  
   Progetto di sentiment analysis basato sulla ruota delle emozioni di Plutchik. Annotazione manuale di post e commenti Reddit tramite Label Studio.  
-  *(File: SENTIMENT ANALYSIS DI POST E COMMENTI DI REDDIT.docx)*
+  *(File: reddit-sentiment-analysis)*
 
 - **Sito web per studenti DH**  
   Web app (Flask + JS) per condividere risorse, eventi e informazioni utili tra gli studenti della magistrale. In fase di sviluppo.
