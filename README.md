@@ -68,6 +68,17 @@ A historical GIS project mapping Garibaldi’s campaign during Italian unificati
 
 ---
 
+### 📊 That-Omission in English
+A variationist sociolinguistic analysis of optional *that* omission in English.
+
+- Statistical modeling of syntactic variation  
+- Analysis of linguistic and contextual factors  
+- Reproducible workflow in RMarkdown  
+
+👉 [View Project](./that-omission-analysis)
+
+---
+
 ### 🎵 Musical Search Engine
 A web-based information retrieval system for a musical corpus.
 
