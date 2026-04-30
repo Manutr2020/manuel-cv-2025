@@ -1,8 +1,8 @@
-# Manuel Trombetta – Digital Humanities & NLP Portfolio
+# Manuel Trombetta – Digital Humanities Portfolio
 
-This repository contains selected academic and technical projects developed during my MSc studies in Digital Humanities, with a focus on Computational Linguistics and Natural Language Processing.
+This repository contains selected academic and technical projects developed during my MSc in Digital Humanities, with a focus on Computational Linguistics, NLP, and Geographic Information Systems (GIS).
 
-The portfolio combines theoretical foundations and practical implementations in NLP, statistical modeling, information retrieval, and web-based applications.
+The portfolio combines theoretical foundations with hands-on projects in language, data, mapping, and web development.
 
 ---
 
@@ -10,11 +10,22 @@ The portfolio combines theoretical foundations and practical implementations in 
 
 ### Natural Language Processing
 
-- Question Answering systems and model evaluation  
+- Question Answering systems and evaluation  
 - Word Sense Disambiguation (Naive Bayes)  
 - Word Embeddings and semantic similarity  
-- Information Retrieval (Boolean, TF-IDF, Semantic Search)
-- Formal semantics 
+- Information Retrieval (Boolean, TF-IDF, Semantic Search)  
+- Formal semantics  
+
+---
+
+### Geographic Information Systems (GIS)
+
+- Historical GIS (HGIS) projects  
+- Linguistic mapping and spatial analysis  
+- QGIS workflows (georeferencing, vector layers, visualization)  
+- Integration of spatial and cultural data  
+
+---
 
 ### Statistical Modeling in Linguistics
 
@@ -23,26 +34,49 @@ The portfolio combines theoretical foundations and practical implementations in 
 - Mixed-effects models (lmer)  
 - Reproducible research with RMarkdown  
 
+---
+
 ### Web Applications
 
 - Flask-based corpus search systems  
 - SQLAlchemy database modeling  
-- Search functionality and content management  
+- Search interfaces and content management  
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### Musical Search Engine
+### 🗺️ Mapping Italian Expressions for “Now”
+A linguistic GIS project exploring the spatial distribution of *mo*, *ora*, and *adesso* across Italy.
 
-A web-based information retrieval system for a musical corpus implementing:
+- Data source: AIS (Atlante Italo-Svizzero)
+- Methods: georeferencing, point mapping, Voronoi polygons
+- Focus: linguistic variation and cultural boundaries  
+
+👉 [View Project](./hgis-now-adverbs)
+
+---
+
+### ⚔️ Expedition of the Thousand (1860)
+A historical GIS project mapping Garibaldi’s campaign during Italian unification.
+
+- Movement-based visualization (sea vs land routes)
+- Symbolic mapping of events and battles
+- Interactive exploration of historical data  
+
+👉 [View Project](./hgis-expedition-thousand)
+
+---
+
+### 🎵 Musical Search Engine
+A web-based information retrieval system for a musical corpus.
 
 - Boolean search (with wildcard support)  
 - TF-IDF ranking  
 - Semantic similarity search  
 - Theme extraction and visualization  
 
-This project demonstrates modular IR architecture, backend development, and applied NLP techniques.
+👉 [View Project](./musical-search-engine)
 
 ---
 
@@ -51,6 +85,10 @@ This project demonstrates modular IR architecture, backend development, and appl
 **Languages**
 - Python  
 - R  
+
+**Tools**
+- QGIS  
+- Git / GitHub  
 
 **Libraries & Frameworks**
 - Flask  
@@ -66,22 +104,29 @@ This project demonstrates modular IR architecture, backend development, and appl
 
 ## Evaluation Approach
 
-Projects include both quantitative and qualitative evaluation methods:
+Projects include both quantitative and qualitative evaluation:
 
-- Exact / Narrow / Broad match comparison  
-- Error analysis  
 - Model comparison  
+- Error analysis  
 - Statistical diagnostics  
+- Spatial interpretation (for GIS projects)  
 
 ---
 
 ## Purpose
 
-This portfolio demonstrates applied work at the intersection of:
+This portfolio focuses on the intersection of:
 
 - Computational Linguistics  
 - Digital Humanities  
+- Geographic Information Systems  
 - Information Retrieval  
-- Statistical modeling of linguistic data  
 
-The focus is on clarity, reproducibility, and methodological rigor.
+The goal is to combine **data, language, and spatial analysis** to explore complex cultural and linguistic phenomena.
+
+---
+
+## Author
+
+**Manuel Trombetta**  
+Digital Humanities Student
