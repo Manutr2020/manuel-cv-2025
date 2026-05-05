@@ -1,0 +1,13 @@
+gender_side,assigned_category,count,percentage
+female,authority_power,14,10.526315789473683
+female,family_relation,39,29.32330827067669
+female,gender_marked,51,38.34586466165413
+female,missing_embedding,11,8.270676691729323
+female,profession_role,11,8.270676691729323
+female,social_status,7,5.263157894736842
+male,authority_power,64,31.527093596059114
+male,family_relation,36,17.733990147783253
+male,gender_marked,46,22.660098522167488
+male,missing_embedding,8,3.9408866995073892
+male,profession_role,33,16.25615763546798
+male,social_status,16,7.8817733990147785

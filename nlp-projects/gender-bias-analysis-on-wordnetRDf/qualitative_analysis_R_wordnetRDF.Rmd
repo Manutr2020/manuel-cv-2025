@@ -1,0 +1,122 @@
+---
+title: "qualitative_analysis_R_wordnetRDF"
+author: "Manuel Trombetta & Yannek Dirksen"
+date: "2026-05-04"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(warning = FALSE)
+knitr::opts_chunk$set(error = FALSE)
+```
+
+
+## Semantic Analysis and Methodological Considerations
+
+This part of the analysis focuses on the semantic content of the relations extracted from WordNetRDF. After the automatic classification based on word embeddings, a manual validation step was applied to correct evident misclassifications and to handle ambiguous or culturally loaded expressions. The aim was not to produce a fully objective categorization, but to obtain an interpretable overview of the semantic domains associated with masculine and feminine terms.
+
+### Category Definition
+
+The semantic categories used in this analysis (e.g., authority/power, social status, family/relation, gender-marked, profession/role) were designed to capture broad conceptual distinctions within the data. These categories are not strictly independent, and some degree of overlap is unavoidable.
+
+In particular, the distinction between authority/power and social status is based on whether a term implies active control or institutional authority (e.g., *king*, *bishop*), as opposed to simply indicating rank or prestige (e.g., *aristocrat*, *noble*).
+
+### Ambiguous Terms
+
+Several terms proved difficult to classify due to their inherently ambiguous nature. Titles such as *queen*, *grand duke*, *prince consort*, or *abbess* may simultaneously reflect authority, institutional roles, and social hierarchy. In such cases, the final classification was based on the dominant interpretation of the term within its WordNet relation.
+
+A particularly important source of ambiguity concerns religious titles such as *Father*, *Sister*, and *Brother*. Although these terms are literally related to family roles, within the WordNet context they often refer to institutional religious positions. This required a contextual interpretation rather than a purely lexical one.
+
+### Bias in the Data
+
+In many cases, the bias observed in the results does not originate from the classification process itself, but from the lexical material. Terms such as *mompreneur*, *housewife*, *trophy wife*, *bunny girl*, and *meter maid* already encode culturally specific and gendered assumptions.
+
+For this reason, the manual validation step was not only used to correct errors produced by the embedding model, but also to interpret the social and cultural implications of certain expressions.
+
+### Role of Manual Validation
+
+While manual correction introduces a degree of subjectivity, it was limited to clearly misclassified or semantically problematic cases. The majority of the classifications were retained from the automatic process in order to preserve consistency and avoid overfitting the results to subjective expectations.
+
+### Limitations
+
+The classification adopted in this analysis is inherently interpretative. The boundaries between categories such as authority/power, social status, profession, and gender marking are not always clear-cut. As a result, the findings should be interpreted as an exploratory semantic analysis rather than as a definitive or fully objective measurement of bias.
+
+
+```{r}
+library(tidyverse)
+library(kableExtra)
+
+data <- read.csv("wordnet_embedding_classification_results_manually_fixed.csv")
+data <- data %>%
+  filter(gender_side %in% c("male", "female"))
+
+kable(head(data)) %>%
+  kable_styling(full_width = FALSE)
+```
+### Category Counts per Term
+
+The data is grouped by main term, gender, and semantic category. For each combination, the number of occurrences is calculated. This step captures how many times each category appears within the relations of a given term.
+
+```{r}
+term_category_counts <- data %>%
+  group_by(main_term, gender_side, assigned_category) %>%
+  summarise(count = n(), .groups = "drop")
+```
+
+### Normalization at Term Level
+
+To avoid bias introduced by terms with a higher number of relations, category counts are normalized within each term. This is done by converting counts into percentages relative to the total number of relations for that term.
+
+```{r}
+term_category_percentages <- term_category_counts %>%
+  group_by(main_term, gender_side) %>%
+  mutate(
+    term_total = sum(count),
+    percentage = count / term_total * 100
+  ) %>%
+  ungroup()
+```
+
+### Aggregation by Gender
+
+The normalized percentages are then aggregated by gender. For each category, the average percentage across all terms is computed separately for masculine and feminine terms. This allows for a fair comparison between the two groups.
+
+```{r}
+normalized_gender_distribution <- term_category_percentages %>%
+  group_by(gender_side, assigned_category) %>%
+  summarise(
+    mean_percentage = mean(percentage),
+    .groups = "drop"
+  )
+```
+
+### Visualization
+
+The normalized distributions are visualized using a stacked bar chart. Each bar represents a gender, and each segment shows the proportion of a specific semantic category. This representation highlights differences in category distribution independently of the total number of relations.
+
+```{r}
+ggplot(normalized_gender_distribution,
+       aes(x = gender_side, y = mean_percentage, fill = assigned_category)) +
+  geom_col(position = "fill") +
+  labs(
+    title = "Normalized Semantic Category Distribution by Gender",
+    x = "Gender",
+    y = "Proportion",
+    fill = "Category"
+  ) +
+  theme_minimal()
+```
+
+### Normalized Semantic Distribution Results
+
+After normalization, the differences between masculine and feminine terms become more balanced, but still meaningful.
+
+Both groups show a relatively similar overall structure, with categories such as *family_relation* and *profession_role* playing a central role. However, some differences remain visible.
+
+Feminine terms show a slightly higher proportion of *family_relation* and *gender_marked* categories, suggesting a stronger association with relational and explicitly gendered contexts. Masculine terms, on the other hand, display a relatively higher proportion of *authority_power* and *profession_role*, indicating a broader presence in domains related to roles and institutional functions.
+
+Importantly, normalization reduces the impact of outliers and highly connected terms, allowing for a more balanced comparison. This confirms that while part of the difference observed in the non-normalized analysis was driven by structural imbalance, a portion of the semantic asymmetry remains even when controlling for term-level variation.
+
+These results should still be interpreted cautiously, as the classification process involves both embedding-based similarity and manual adjustments. For this reason, the analysis is best understood as exploratory, highlighting tendencies rather than providing definitive conclusions.

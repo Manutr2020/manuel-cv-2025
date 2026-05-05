@@ -1,0 +1,749 @@
+[
+  {
+    "term": "male monarch",
+    "synset_uri": "https://en-word.net/id/oewn-10251212-n",
+    "hypernym_count": 5,
+    "hypernyms": [
+      "adult male",
+      "crowned head",
+      "man",
+      "monarch",
+      "sovereign"
+    ],
+    "hyponym_count": 4,
+    "hyponyms": [
+      "King of England",
+      "King of France",
+      "King of Great Britain",
+      "King of the Germans"
+    ]
+  },
+  {
+    "term": "female monarch",
+    "synset_uri": "https://en-word.net/id/oewn-10518940-n",
+    "hypernym_count": 1,
+    "hypernyms": [
+      "female aristocrat"
+    ],
+    "hyponym_count": 1,
+    "hyponyms": [
+      "Queen of England"
+    ]
+  },
+  {
+    "term": "prince",
+    "synset_uri": "https://en-word.net/id/oewn-10492384-n",
+    "hypernym_count": 5,
+    "hypernyms": [
+      "adult male",
+      "aristocrat",
+      "blue blood",
+      "man",
+      "patrician"
+    ],
+    "hyponym_count": 10,
+    "hyponyms": [
+      "archduke",
+      "crown prince",
+      "dauphin",
+      "elector",
+      "grand duke",
+      "maharaja",
+      "maharajah",
+      "prince consort",
+      "Prince of Wales",
+      "princeling"
+    ]
+  },
+  {
+    "term": "princess",
+    "synset_uri": "https://en-word.net/id/oewn-10493649-n",
+    "hypernym_count": 5,
+    "hypernyms": [
+      "adult female",
+      "aristocrat",
+      "blue blood",
+      "patrician",
+      "woman"
+    ],
+    "hyponym_count": 5,
+    "hyponyms": [
+      "archduchess",
+      "crown princess",
+      "maharanee",
+      "maharani",
+      "princess royal"
+    ]
+  },
+  {
+    "term": "emperor",
+    "synset_uri": "https://en-word.net/id/oewn-10072812-n",
+    "hypernym_count": 3,
+    "hypernyms": [
+      "crowned head",
+      "monarch",
+      "sovereign"
+    ],
+    "hyponym_count": 9,
+    "hyponyms": [
+      "emperor of Rome",
+      "empress",
+      "Holy Roman Emperor",
+      "Kaiser",
+      "mikado",
+      "Roman emperor",
+      "Romanoff",
+      "Romanov",
+      "tenno"
+    ]
+  },
+  {
+    "term": "empress",
+    "synset_uri": "https://en-word.net/id/oewn-10073247-n",
+    "hypernym_count": 3,
+    "hypernyms": [
+      "adult female",
+      "emperor",
+      "woman"
+    ],
+    "hyponym_count": 0,
+    "hyponyms": []
+  },
+  {
+    "term": "actor",
+    "synset_uri": "https://en-word.net/id/oewn-09784701-n",
+    "hypernym_count": 2,
+    "hypernyms": [
+      "performer",
+      "performing artist"
+    ],
+    "hyponym_count": 33,
+    "hyponyms": [
+      "actress",
+      "barnstormer",
+      "character actor",
+      "comedian",
+      "extra",
+      "ham",
+      "ham actor",
+      "heavy",
+      "ingenue",
+      "lead",
+      "leading man",
+      "mime",
+      "mimer",
+      "movie actor",
+      "mummer",
+      "pantomimer",
+      "pantomimist",
+      "plant",
+      "play-actor",
+      "playactor",
+      "principal",
+      "reenactor",
+      "scene-stealer",
+      "screen actor",
+      "spear carrier",
+      "standby",
+      "star",
+      "supernumerary",
+      "tragedian",
+      "trouper",
+      "understudy",
+      "upstager",
+      "walk-on"
+    ]
+  },
+  {
+    "term": "actress",
+    "synset_uri": "https://en-word.net/id/oewn-09787123-n",
+    "hypernym_count": 7,
+    "hypernyms": [
+      "actor",
+      "adult female",
+      "histrion",
+      "player",
+      "role player",
+      "thespian",
+      "woman"
+    ],
+    "hyponym_count": 3,
+    "hyponyms": [
+      "leading lady",
+      "starlet",
+      "tragedienne"
+    ]
+  },
+  {
+    "term": "waiter",
+    "synset_uri": "https://en-word.net/id/oewn-10783051-n",
+    "hypernym_count": 2,
+    "hypernyms": [
+      "dining-room attendant",
+      "restaurant attendant"
+    ],
+    "hyponym_count": 6,
+    "hyponyms": [
+      "carhop",
+      "counterperson",
+      "sommelier",
+      "waitress",
+      "wine steward",
+      "wine waiter"
+    ]
+  },
+  {
+    "term": "waitress",
+    "synset_uri": "https://en-word.net/id/oewn-10783288-n",
+    "hypernym_count": 4,
+    "hypernyms": [
+      "adult female",
+      "server",
+      "waiter",
+      "woman"
+    ],
+    "hyponym_count": 2,
+    "hyponyms": [
+      "bunny",
+      "bunny girl"
+    ]
+  },
+  {
+    "term": "businessman",
+    "synset_uri": "https://en-word.net/id/oewn-09901459-n",
+    "hypernym_count": 4,
+    "hypernyms": [
+      "adult male",
+      "bourgeois",
+      "businessperson",
+      "man"
+    ],
+    "hyponym_count": 2,
+    "hyponyms": [
+      "small businessman",
+      "suit"
+    ]
+  },
+  {
+    "term": "businesswoman",
+    "synset_uri": "https://en-word.net/id/oewn-09902067-n",
+    "hypernym_count": 4,
+    "hypernyms": [
+      "adult female",
+      "bourgeois",
+      "businessperson",
+      "woman"
+    ],
+    "hyponym_count": 2,
+    "hyponyms": [
+      "brothel keeper",
+      "madam"
+    ]
+  },
+  {
+    "term": "policeman",
+    "synset_uri": "https://en-word.net/id/oewn-80600405-n",
+    "hypernym_count": 4,
+    "hypernyms": [
+      "adult male",
+      "man",
+      "officer",
+      "police officer"
+    ],
+    "hyponym_count": 1,
+    "hyponyms": [
+      "pointsman"
+    ]
+  },
+  {
+    "term": "policewoman",
+    "synset_uri": "https://en-word.net/id/oewn-10468986-n",
+    "hypernym_count": 4,
+    "hypernyms": [
+      "adult female",
+      "officer",
+      "police officer",
+      "woman"
+    ],
+    "hyponym_count": 1,
+    "hyponyms": [
+      "meter maid"
+    ]
+  },
+  {
+    "term": "congressman",
+    "synset_uri": "https://en-word.net/id/oewn-83115757-n",
+    "hypernym_count": 3,
+    "hypernyms": [
+      "adult male",
+      "man",
+      "representative"
+    ],
+    "hyponym_count": 0,
+    "hyponyms": []
+  },
+  {
+    "term": "congresswoman",
+    "synset_uri": "https://en-word.net/id/oewn-80278004-n",
+    "hypernym_count": 3,
+    "hypernyms": [
+      "adult female",
+      "representative",
+      "woman"
+    ],
+    "hyponym_count": 0,
+    "hyponyms": []
+  },
+  {
+    "term": "male parent",
+    "synset_uri": "https://en-word.net/id/oewn-10100638-n",
+    "hypernym_count": 1,
+    "hypernyms": [
+      "parent"
+    ],
+    "hyponym_count": 10,
+    "hyponyms": [
+      "dad",
+      "dada",
+      "daddy",
+      "father-in-law",
+      "old man",
+      "pa",
+      "papa",
+      "pappa",
+      "pater",
+      "pop"
+    ]
+  },
+  {
+    "term": "female parent",
+    "synset_uri": "https://en-word.net/id/oewn-10352098-n",
+    "hypernym_count": 1,
+    "hypernyms": [
+      "parent"
+    ],
+    "hyponym_count": 22,
+    "hyponyms": [
+      "baby mama",
+      "ma",
+      "mama",
+      "mamma",
+      "mammy",
+      "mater",
+      "mom",
+      "momma",
+      "mommy",
+      "mompreneur",
+      "mother-in-law",
+      "mum",
+      "mumma",
+      "mummy",
+      "para I",
+      "primipara",
+      "puerpera",
+      "quadripara",
+      "quintipara",
+      "superdad",
+      "supermom",
+      "surrogate mother"
+    ]
+  },
+  {
+    "term": "son",
+    "synset_uri": "https://en-word.net/id/oewn-10643436-n",
+    "hypernym_count": 2,
+    "hypernyms": [
+      "male offspring",
+      "man-child"
+    ],
+    "hyponym_count": 6,
+    "hyponyms": [
+      "Jnr",
+      "Jr",
+      "Junior",
+      "mama's boy",
+      "mamma's boy",
+      "mother's boy"
+    ]
+  },
+  {
+    "term": "daughter",
+    "synset_uri": "https://en-word.net/id/oewn-10012375-n",
+    "hypernym_count": 1,
+    "hypernyms": [
+      "female offspring"
+    ],
+    "hyponym_count": 1,
+    "hyponyms": [
+      "mother's daughter"
+    ]
+  },
+  {
+    "term": "male sibling",
+    "synset_uri": "https://en-word.net/id/oewn-10305781-n",
+    "hypernym_count": 1,
+    "hypernyms": [
+      "kinsman"
+    ],
+    "hyponym_count": 2,
+    "hyponyms": [
+      "blood brother",
+      "brother"
+    ]
+  },
+  {
+    "term": "female sibling",
+    "synset_uri": "https://en-word.net/id/oewn-10103950-n",
+    "hypernym_count": 1,
+    "hypernyms": [
+      "kinswoman"
+    ],
+    "hyponym_count": 2,
+    "hyponyms": [
+      "sis",
+      "sister"
+    ]
+  },
+  {
+    "term": "uncle",
+    "synset_uri": "https://en-word.net/id/oewn-10755748-n",
+    "hypernym_count": 1,
+    "hypernyms": [
+      "kinsman"
+    ],
+    "hyponym_count": 2,
+    "hyponyms": [
+      "granduncle",
+      "great-uncle"
+    ]
+  },
+  {
+    "term": "aunt",
+    "synset_uri": "https://en-word.net/id/oewn-09842904-n",
+    "hypernym_count": 1,
+    "hypernyms": [
+      "kinswoman"
+    ],
+    "hyponym_count": 3,
+    "hyponyms": [
+      "grandaunt",
+      "great-aunt",
+      "maiden aunt"
+    ]
+  },
+  {
+    "term": "nephew",
+    "synset_uri": "https://en-word.net/id/oewn-10373054-n",
+    "hypernym_count": 1,
+    "hypernyms": [
+      "kinsman"
+    ],
+    "hyponym_count": 2,
+    "hyponyms": [
+      "grandnephew",
+      "great-nephew"
+    ]
+  },
+  {
+    "term": "niece",
+    "synset_uri": "https://en-word.net/id/oewn-10377312-n",
+    "hypernym_count": 1,
+    "hypernyms": [
+      "kinswoman"
+    ],
+    "hyponym_count": 2,
+    "hyponyms": [
+      "grandniece",
+      "great-niece"
+    ]
+  },
+  {
+    "term": "grandfather",
+    "synset_uri": "https://en-word.net/id/oewn-10161911-n",
+    "hypernym_count": 1,
+    "hypernyms": [
+      "grandparent"
+    ],
+    "hyponym_count": 0,
+    "hyponyms": []
+  },
+  {
+    "term": "grandmother",
+    "synset_uri": "https://en-word.net/id/oewn-10162267-n",
+    "hypernym_count": 1,
+    "hypernyms": [
+      "grandparent"
+    ],
+    "hyponym_count": 1,
+    "hyponyms": [
+      "nan"
+    ]
+  },
+  {
+    "term": "grandson",
+    "synset_uri": "https://en-word.net/id/oewn-10162819-n",
+    "hypernym_count": 1,
+    "hypernyms": [
+      "grandchild"
+    ],
+    "hyponym_count": 0,
+    "hyponyms": []
+  },
+  {
+    "term": "granddaughter",
+    "synset_uri": "https://en-word.net/id/oewn-10161252-n",
+    "hypernym_count": 1,
+    "hypernyms": [
+      "grandchild"
+    ],
+    "hyponym_count": 0,
+    "hyponyms": []
+  },
+  {
+    "term": "husband",
+    "synset_uri": "https://en-word.net/id/oewn-10213586-n",
+    "hypernym_count": 7,
+    "hypernyms": [
+      "adult male",
+      "better half",
+      "man",
+      "married person",
+      "mate",
+      "partner",
+      "spouse"
+    ],
+    "hyponym_count": 11,
+    "hyponyms": [
+      "benedick",
+      "benedict",
+      "cuckold",
+      "family man",
+      "first gentleman",
+      "golf widower",
+      "honest man",
+      "house husband",
+      "househusband",
+      "trophy husband",
+      "uxoricide"
+    ]
+  },
+  {
+    "term": "wife",
+    "synset_uri": "https://en-word.net/id/oewn-10800308-n",
+    "hypernym_count": 7,
+    "hypernyms": [
+      "adult female",
+      "better half",
+      "married person",
+      "mate",
+      "partner",
+      "spouse",
+      "woman"
+    ],
+    "hyponym_count": 25,
+    "hyponyms": [
+      "battle-ax",
+      "battle-axe",
+      "crown princess",
+      "first lady",
+      "golf widow",
+      "homemaker",
+      "honest woman",
+      "housewife",
+      "lady of the house",
+      "marchioness",
+      "matron",
+      "mayoress",
+      "missis",
+      "missus",
+      "old lady",
+      "queen",
+      "sheika",
+      "sheikha",
+      "signora",
+      "trophy wife",
+      "ux.",
+      "uxor",
+      "vicereine",
+      "viscountess",
+      "woman of the house"
+    ]
+  },
+  {
+    "term": "boyfriend",
+    "synset_uri": "https://en-word.net/id/oewn-09890770-n",
+    "hypernym_count": 3,
+    "hypernyms": [
+      "adult male",
+      "lover",
+      "man"
+    ],
+    "hyponym_count": 0,
+    "hyponyms": []
+  },
+  {
+    "term": "lady friend",
+    "synset_uri": "https://en-word.net/id/oewn-10150206-n",
+    "hypernym_count": 3,
+    "hypernyms": [
+      "adult female",
+      "lover",
+      "woman"
+    ],
+    "hyponym_count": 0,
+    "hyponyms": []
+  },
+  {
+    "term": "monk",
+    "synset_uri": "https://en-word.net/id/oewn-10131898-n",
+    "hypernym_count": 1,
+    "hypernyms": [
+      "religious"
+    ],
+    "hyponym_count": 4,
+    "hyponyms": [
+      "Brother",
+      "Carthusian",
+      "Cistercian",
+      "Trappist"
+    ]
+  },
+  {
+    "term": "nun",
+    "synset_uri": "https://en-word.net/id/oewn-10387708-n",
+    "hypernym_count": 1,
+    "hypernyms": [
+      "religious"
+    ],
+    "hyponym_count": 1,
+    "hyponyms": [
+      "Sister"
+    ]
+  },
+  {
+    "term": "priest",
+    "synset_uri": "https://en-word.net/id/oewn-10490364-n",
+    "hypernym_count": 3,
+    "hypernyms": [
+      "Holy Order",
+      "Order",
+      "reverend"
+    ],
+    "hyponym_count": 16,
+    "hyponyms": [
+      "archpriest",
+      "bishop",
+      "canon",
+      "celebrant",
+      "confessor",
+      "domestic prelate",
+      "Father",
+      "hierarch",
+      "high priest",
+      "Monsignor",
+      "Padre",
+      "pontifex",
+      "prelate",
+      "priestess",
+      "primate",
+      "vicar"
+    ]
+  },
+  {
+    "term": "priestess",
+    "synset_uri": "https://en-word.net/id/oewn-10491155-n",
+    "hypernym_count": 3,
+    "hypernyms": [
+      "adult female",
+      "priest",
+      "woman"
+    ],
+    "hyponym_count": 0,
+    "hyponyms": []
+  },
+  {
+    "term": "abbot",
+    "synset_uri": "https://en-word.net/id/oewn-09773735-n",
+    "hypernym_count": 3,
+    "hypernyms": [
+      "adult male",
+      "man",
+      "superior"
+    ],
+    "hyponym_count": 1,
+    "hyponyms": [
+      "abbe"
+    ]
+  },
+  {
+    "term": "abbess",
+    "synset_uri": "https://en-word.net/id/oewn-09773548-n",
+    "hypernym_count": 3,
+    "hypernyms": [
+      "adult female",
+      "superior",
+      "woman"
+    ],
+    "hyponym_count": 1,
+    "hyponyms": [
+      "mother"
+    ]
+  },
+  {
+    "term": "god",
+    "synset_uri": "https://en-word.net/id/oewn-09528550-n",
+    "hypernym_count": 2,
+    "hypernyms": [
+      "spiritual being",
+      "supernatural being"
+    ],
+    "hyponym_count": 29,
+    "hyponyms": [
+      "Anglo-Saxon deity",
+      "Celtic deity",
+      "Chinese deity",
+      "daemon",
+      "demigod",
+      "demiurge",
+      "earth god",
+      "earth-god",
+      "Egyptian deity",
+      "god of war",
+      "goddess",
+      "Graeco-Roman deity",
+      "Greco-Roman deity",
+      "Greek deity",
+      "Hindu deity",
+      "Japanese deity",
+      "Norse deity",
+      "Persian deity",
+      "Phrygian deity",
+      "Roman deity",
+      "saint",
+      "sea god",
+      "Semitic deity",
+      "snake god",
+      "sun god",
+      "Teutonic deity",
+      "war god",
+      "zombi",
+      "zombie"
+    ]
+  },
+  {
+    "term": "goddess",
+    "synset_uri": "https://en-word.net/id/oewn-09558733-n",
+    "hypernym_count": 4,
+    "hypernyms": [
+      "deity",
+      "divinity",
+      "god",
+      "immortal"
+    ],
+    "hyponym_count": 2,
+    "hyponyms": [
+      "earth goddess",
+      "earth-goddess"
+    ]
+  }
+]

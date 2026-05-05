@@ -1,0 +1,159 @@
+---
+title: "Quantitative Analysis of the Bias in WordNetRDF"
+author: "Manuel Trombetta & Yannek Dirksen"
+date: "2026-04-24"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(warning = FALSE)
+knitr::opts_chunk$set(error = FALSE)
+```
+
+
+### Data Preparation and Transformation
+
+First, the necessary library (`tidyverse`) is loaded and the dataset is imported. A quick inspection of the data structure is performed using `head()` and `str()` to ensure that variables are correctly formatted.
+
+A new variable, *semantic richness*, is then created by summing the number of hypernyms and hyponyms. This provides a single metric to quantify the structural complexity of each term.
+
+Next, a *pair identifier* (`pair_name`) is constructed by combining the masculine and feminine terms. This step is important to enable direct comparison between gendered pairs in the visualizations.
+
+Finally, the dataset is converted from wide to long format using `pivot_longer()`. This transformation restructures the data so that different types of relations (hypernyms and hyponyms) are stored in a single column, making it easier to produce stacked visualizations in the following steps.
+
+
+```{r}
+library(tidyverse)
+library(kableExtra)
+
+# Import dataset
+data <- read.csv("wordnet_gender_pairs_clean_sparql.csv")
+
+# Check
+kable(head(data)) %>%
+  kable_styling(full_width = FALSE)
+#str(data)
+
+# Creation of a column for the total richness
+data <- data %>%
+  mutate(richness = hypernym_count + hyponym_count)
+
+# creation pair_name 
+data <- data %>%
+  group_by(pair_male, pair_female) %>%
+  mutate(pair_name = paste(pair_male[1], "/", pair_female[1])) %>%
+  ungroup()
+
+# long
+data_long <- data %>%
+  pivot_longer(
+    cols = c(hypernym_count, hyponym_count),
+    names_to = "relation_type",
+    values_to = "count"
+  )
+
+kable(head(data_long)) %>%
+  kable_styling(full_width = FALSE)
+```
+
+### Visualization of Semantic Structure by Gendered Pairs
+
+A stacked horizontal bar chart is used to compare the semantic structure of masculine and feminine terms within each pair. Hypernyms and hyponyms are represented as different segments of the same bar, and the horizontal layout improves readability.
+
+The use of `facet_wrap()` separates masculine and feminine terms into two panels, allowing a direct comparison across aligned pairs.
+
+The chart shows that masculine terms often have a higher number of hyponyms (e.g., *actor*, *god*), indicating broader semantic expansion. However, some feminine terms stand out with higher values, especially in relational roles (e.g., *wife*, *female parent*), which will be further explored in the analysis.
+
+
+```{r}
+# Stacked horizontal bar chart
+ggplot(data_long, aes(x = count, y = pair_name, fill = relation_type)) +
+  geom_bar(stat = "identity") +
+  facet_wrap(~ gender_side) +
+  labs(
+    title = "Semantic Structure by Gendered Pairs",
+    x = "Number of Relations",
+    y = "Gendered Pairs",
+    fill = "Relation Type"
+  ) +
+  theme_minimal()
+```
+
+
+### Distribution of hierarchical Semantic Richness by Gender
+
+A boxplot is used to compare the overall distribution of hierarchical semantic richness between masculine and feminine terms. This visualization summarizes central tendency, variability, and the presence of outliers.
+
+The plot shows that masculine terms generally have higher median values and a wider spread, indicating greater variability and, overall, higher semantic richness. At the same time, both groups display outliers, reflecting specific terms with unusually high numbers of relations.
+
+This confirms a general imbalance in the lexical network, with masculine terms tending to occupy more structurally complex positions.
+
+
+```{r}
+# Boxplot of hierarchical semantic richness
+ggplot(data, aes(x = gender_side, y = richness, fill = gender_side)) +
+  geom_boxplot(alpha = 0.7) +
+  labs(
+    title = "Hierarchical Semantic Richness by Gender",
+    x = "Gender",
+    y = "Semantic Richness (Hypernyms + Hyponyms)"
+  ) +
+  theme_minimal()
+```
+
+### Total Network Connectivity by Gender
+
+This plot compares the overall network connectivity of masculine and feminine terms.
+Unlike hierarchical semantic richness, this metric counts both incoming and outgoing WordNet relations.
+
+For example, consider the synset "king":
+
+- Outgoing relations:  
+  king → ruler (hypernym)  
+  king → monarch (related concept)
+
+- Incoming relations:  
+  monarch → king  
+  leader → king  
+
+Outgoing relations represent the connections that originate from the synset,  
+while incoming relations represent connections from other synsets pointing to it.
+
+By combining both, we obtain a more complete measure of how central a concept is in the semantic network.
+
+```{r}
+# Boxplot of total network connectivity
+ggplot(data, aes(x = gender_side, y = wn_relation_both_directions, fill = gender_side)) +
+  geom_boxplot(alpha = 0.7) +
+  labs(
+    title = "Total Network Connectivity by Gender",
+    x = "Gender",
+    y = "Number of Relations (Incoming + Outgoing)"
+  ) +
+  theme_minimal()
+```
+
+### Outlier Analysis: Term-level Connectivity
+
+Boxplots show the overall distribution, but they do not clearly indicate which specific terms are outliers.
+This plot displays each term individually, making extreme values immediately visible.
+
+
+```{r}
+ggplot(data, aes(
+  x = reorder(term, wn_relation_both_directions),
+  y = wn_relation_both_directions,
+  fill = gender_side
+)) +
+  geom_col() +
+  coord_flip() +
+  labs(
+    title = "Term-level Network Connectivity",
+    x = "Term",
+    y = "Number of Relations (Incoming + Outgoing)"
+  ) +
+  theme_minimal()
+```
+

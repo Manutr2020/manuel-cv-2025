@@ -1,0 +1,43 @@
+pair_male,pair_female,gender_side,term,synset_uri,hypernym_count,hypernym_labels,hyponym_count,hyponym_labels,wn_relation_predicate_count,wn_relation_edge_count,wn_relation_both_directions
+male monarch,female monarch,male,male monarch,https://en-word.net/id/oewn-10251212-n,5,adult male | crowned head | man | monarch | sovereign,4,King of England | King of France | King of Great Britain | King of the Germans,3,6,12
+male monarch,female monarch,female,female monarch,https://en-word.net/id/oewn-10518940-n,1,female aristocrat,1,Queen of England,3,3,6
+prince,princess,male,prince,https://en-word.net/id/oewn-10492384-n,5,adult male | aristocrat | blue blood | man | patrician,10,archduke | crown prince | dauphin | elector | grand duke | maharaja | maharajah | prince consort | Prince of Wales | princeling,3,13,26
+prince,princess,female,princess,https://en-word.net/id/oewn-10493649-n,5,adult female | aristocrat | blue blood | patrician | woman,5,archduchess | crown princess | maharanee | maharani | princess royal,3,7,14
+emperor,empress,male,emperor,https://en-word.net/id/oewn-10072812-n,3,crowned head | monarch | sovereign,9,emperor of Rome | empress | Holy Roman Emperor | Kaiser | mikado | Roman emperor | Romanoff | Romanov | tenno,2,7,14
+emperor,empress,female,empress,https://en-word.net/id/oewn-10073247-n,3,adult female | emperor | woman,0,,1,2,4
+actor,actress,male,actor,https://en-word.net/id/oewn-09784701-n,2,performer | performing artist,33,actress | barnstormer | character actor | comedian | extra | ham | ham actor | heavy | ingenue | lead | leading man | mime | mimer | movie actor | mummer | pantomimer | pantomimist | plant | play-actor | playactor | principal | reenactor | scene-stealer | screen actor | spear carrier | standby | star | supernumerary | tragedian | trouper | understudy | upstager | walk-on,2,20,40
+actor,actress,female,actress,https://en-word.net/id/oewn-09787123-n,7,actor | adult female | histrion | player | role player | thespian | woman,3,leading lady | starlet | tragedienne,2,5,10
+waiter,waitress,male,waiter,https://en-word.net/id/oewn-10783051-n,2,dining-room attendant | restaurant attendant,6,carhop | counterperson | sommelier | waitress | wine steward | wine waiter,2,5,10
+waiter,waitress,female,waitress,https://en-word.net/id/oewn-10783288-n,4,adult female | server | waiter | woman,2,bunny | bunny girl,2,3,6
+businessman,businesswoman,male,businessman,https://en-word.net/id/oewn-09901459-n,4,adult male | bourgeois | businessperson | man,2,small businessman | suit,2,4,8
+businessman,businesswoman,female,businesswoman,https://en-word.net/id/oewn-09902067-n,4,adult female | bourgeois | businessperson | woman,2,brothel keeper | madam,2,3,6
+policeman,policewoman,male,policeman,https://en-word.net/id/oewn-80600405-n,4,adult male | man | officer | police officer,1,pointsman,2,3,6
+policeman,policewoman,female,policewoman,https://en-word.net/id/oewn-10468986-n,4,adult female | officer | police officer | woman,1,meter maid,2,3,6
+congressman,congresswoman,male,congressman,https://en-word.net/id/oewn-83115757-n,3,adult male | man | representative,0,,1,2,4
+congressman,congresswoman,female,congresswoman,https://en-word.net/id/oewn-80278004-n,3,adult female | representative | woman,0,,1,2,4
+male parent,female parent,male,male parent,https://en-word.net/id/oewn-10100638-n,1,parent,10,dad | dada | daddy | father-in-law | old man | pa | papa | pappa | pater | pop,2,5,10
+male parent,female parent,female,female parent,https://en-word.net/id/oewn-10352098-n,1,parent,22,baby mama | ma | mama | mamma | mammy | mater | mom | momma | mommy | mompreneur | mother-in-law | mum | mumma | mummy | para I | primipara | puerpera | quadripara | quintipara | superdad | supermom | surrogate mother,2,13,26
+son,daughter,male,son,https://en-word.net/id/oewn-10643436-n,2,male offspring | man-child,6,Jnr | Jr | Junior | mama's boy | mamma's boy | mother's boy,2,3,6
+son,daughter,female,daughter,https://en-word.net/id/oewn-10012375-n,1,female offspring,1,mother's daughter,2,2,4
+male sibling,female sibling,male,male sibling,https://en-word.net/id/oewn-10305781-n,1,kinsman,2,blood brother | brother,2,2,4
+male sibling,female sibling,female,female sibling,https://en-word.net/id/oewn-10103950-n,1,kinswoman,2,sis | sister,2,2,4
+uncle,aunt,male,uncle,https://en-word.net/id/oewn-10755748-n,1,kinsman,2,granduncle | great-uncle,2,2,4
+uncle,aunt,female,aunt,https://en-word.net/id/oewn-09842904-n,1,kinswoman,3,grandaunt | great-aunt | maiden aunt,2,3,6
+nephew,niece,male,nephew,https://en-word.net/id/oewn-10373054-n,1,kinsman,2,grandnephew | great-nephew,2,2,4
+nephew,niece,female,niece,https://en-word.net/id/oewn-10377312-n,1,kinswoman,2,grandniece | great-niece,2,2,4
+grandfather,grandmother,male,grandfather,https://en-word.net/id/oewn-10161911-n,1,grandparent,0,,1,1,2
+grandfather,grandmother,female,grandmother,https://en-word.net/id/oewn-10162267-n,1,grandparent,1,nan,2,2,4
+grandson,granddaughter,male,grandson,https://en-word.net/id/oewn-10162819-n,1,grandchild,0,,1,1,2
+grandson,granddaughter,female,granddaughter,https://en-word.net/id/oewn-10161252-n,1,grandchild,0,,1,1,2
+husband,wife,male,husband,https://en-word.net/id/oewn-10213586-n,7,adult male | better half | man | married person | mate | partner | spouse,11,benedick | benedict | cuckold | family man | first gentleman | golf widower | honest man | house husband | househusband | trophy husband | uxoricide,2,11,22
+husband,wife,female,wife,https://en-word.net/id/oewn-10800308-n,7,adult female | better half | married person | mate | partner | spouse | woman,25,battle-ax | battle-axe | crown princess | first lady | golf widow | homemaker | honest woman | housewife | lady of the house | marchioness | matron | mayoress | missis | missus | old lady | queen | sheika | sheikha | signora | trophy wife | ux. | uxor | vicereine | viscountess | woman of the house,2,20,40
+boyfriend,lady friend,male,boyfriend,https://en-word.net/id/oewn-09890770-n,3,adult male | lover | man,0,,1,2,4
+boyfriend,lady friend,female,lady friend,https://en-word.net/id/oewn-10150206-n,3,adult female | lover | woman,0,,1,2,4
+monk,nun,male,monk,https://en-word.net/id/oewn-10131898-n,1,religious,4,Brother | Carthusian | Cistercian | Trappist,2,4,8
+monk,nun,female,nun,https://en-word.net/id/oewn-10387708-n,1,religious,1,Sister,2,2,4
+priest,priestess,male,priest,https://en-word.net/id/oewn-10490364-n,3,Holy Order | Order | reverend,16,archpriest | bishop | canon | celebrant | confessor | domestic prelate | Father | hierarch | high priest | Monsignor | Padre | pontifex | prelate | priestess | primate | vicar,2,13,26
+priest,priestess,female,priestess,https://en-word.net/id/oewn-10491155-n,3,adult female | priest | woman,0,,1,2,4
+abbot,abbess,male,abbot,https://en-word.net/id/oewn-09773735-n,3,adult male | man | superior,1,abbe,2,3,6
+abbot,abbess,female,abbess,https://en-word.net/id/oewn-09773548-n,3,adult female | superior | woman,1,mother,2,3,6
+god,goddess,male,god,https://en-word.net/id/oewn-09528550-n,2,spiritual being | supernatural being,29,Anglo-Saxon deity | Celtic deity | Chinese deity | daemon | demigod | demiurge | earth god | earth-god | Egyptian deity | god of war | goddess | Graeco-Roman deity | Greco-Roman deity | Greek deity | Hindu deity | Japanese deity | Norse deity | Persian deity | Phrygian deity | Roman deity | saint | sea god | Semitic deity | snake god | sun god | Teutonic deity | war god | zombi | zombie,3,25,50
+god,goddess,female,goddess,https://en-word.net/id/oewn-09558733-n,4,deity | divinity | god | immortal,2,earth goddess | earth-goddess,2,2,4

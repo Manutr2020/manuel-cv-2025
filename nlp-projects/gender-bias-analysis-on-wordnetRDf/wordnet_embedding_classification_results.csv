@@ -1,0 +1,337 @@
+main_term,related_term,relation_type,clean_term,assigned_category,similarity_score,term,gender_side,pair_male,pair_female
+male monarch,adult male,hypernym,adult male,gender_marked,0.7665693163871765,male monarch,male,male monarch,female monarch
+male monarch,crowned head,hypernym,crowned head,authority_power,0.6559136509895325,male monarch,male,male monarch,female monarch
+male monarch,man,hypernym,man,gender_marked,0.8482155799865723,male monarch,male,male monarch,female monarch
+male monarch,monarch,hypernym,monarch,authority_power,0.7462693452835083,male monarch,male,male monarch,female monarch
+male monarch,sovereign,hypernym,sovereign,authority_power,0.5756523609161377,male monarch,male,male monarch,female monarch
+male monarch,King of England,hyponym,king of england,authority_power,0.7905874848365784,male monarch,male,male monarch,female monarch
+male monarch,King of France,hyponym,king of france,authority_power,0.7935228943824768,male monarch,male,male monarch,female monarch
+male monarch,King of Great Britain,hyponym,king of great britain,authority_power,0.8164671659469604,male monarch,male,male monarch,female monarch
+male monarch,King of the Germans,hyponym,king of the germans,authority_power,0.7588725090026855,male monarch,male,male monarch,female monarch
+female monarch,female aristocrat,hypernym,female aristocrat,gender_marked,0.8051194548606873,female monarch,female,male monarch,female monarch
+female monarch,Queen of England,hyponym,queen of england,authority_power,0.7437515258789062,female monarch,female,male monarch,female monarch
+prince,adult male,hypernym,adult male,gender_marked,0.7665693163871765,prince,male,prince,princess
+prince,aristocrat,hypernym,aristocrat,social_status,0.48774006962776184,prince,male,prince,princess
+prince,blue blood,hypernym,blue blood,gender_marked,0.5651249885559082,prince,male,prince,princess
+prince,man,hypernym,man,gender_marked,0.8482155799865723,prince,male,prince,princess
+prince,patrician,hypernym,patrician,social_status,0.5536790490150452,prince,male,prince,princess
+prince,archduke,hyponym,archduke,family_relation,0.2780178487300873,prince,male,prince,princess
+prince,crown prince,hyponym,crown prince,authority_power,0.7415153384208679,prince,male,prince,princess
+prince,dauphin,hyponym,dauphin,authority_power,0.19870689511299133,prince,male,prince,princess
+prince,elector,hyponym,elector,authority_power,0.30902764201164246,prince,male,prince,princess
+prince,grand duke,hyponym,grand duke,authority_power,0.5996939539909363,prince,male,prince,princess
+prince,maharaja,hyponym,maharaja,authority_power,0.33173927664756775,prince,male,prince,princess
+prince,maharajah,hyponym,maharajah,family_relation,0.21964994072914124,prince,male,prince,princess
+prince,prince consort,hyponym,prince consort,authority_power,0.6321068406105042,prince,male,prince,princess
+prince,Prince of Wales,hyponym,prince of wales,authority_power,0.7458741664886475,prince,male,prince,princess
+prince,princeling,hyponym,princeling,social_status,0.033004678785800934,prince,male,prince,princess
+princess,adult female,hypernym,adult female,gender_marked,0.7868453860282898,princess,female,prince,princess
+princess,aristocrat,hypernym,aristocrat,social_status,0.48774006962776184,princess,female,prince,princess
+princess,blue blood,hypernym,blue blood,gender_marked,0.5651249885559082,princess,female,prince,princess
+princess,patrician,hypernym,patrician,social_status,0.5536790490150452,princess,female,prince,princess
+princess,woman,hypernym,woman,gender_marked,0.920028567314148,princess,female,prince,princess
+princess,archduchess,hyponym,archduchess,family_relation,0.25553131103515625,princess,female,prince,princess
+princess,crown princess,hyponym,crown princess,authority_power,0.6522336006164551,princess,female,prince,princess
+princess,maharanee,hyponym,maharanee,missing_embedding,,princess,female,prince,princess
+princess,maharani,hyponym,maharani,family_relation,0.17523416876792908,princess,female,prince,princess
+princess,princess royal,hyponym,princess royal,authority_power,0.6477549076080322,princess,female,prince,princess
+emperor,crowned head,hypernym,crowned head,authority_power,0.6559136509895325,emperor,male,emperor,empress
+emperor,monarch,hypernym,monarch,authority_power,0.7462693452835083,emperor,male,emperor,empress
+emperor,sovereign,hypernym,sovereign,authority_power,0.5756523609161377,emperor,male,emperor,empress
+emperor,emperor of Rome,hyponym,emperor of rome,authority_power,0.7299908995628357,emperor,male,emperor,empress
+emperor,empress,hyponym,empress,authority_power,0.43402475118637085,emperor,male,emperor,empress
+emperor,Holy Roman Emperor,hyponym,holy roman emperor,authority_power,0.7116187810897827,emperor,male,emperor,empress
+emperor,Kaiser,hyponym,kaiser,family_relation,0.2516142427921295,emperor,male,emperor,empress
+emperor,mikado,hyponym,mikado,social_status,-0.07168310135602951,emperor,male,emperor,empress
+emperor,Roman emperor,hyponym,roman emperor,authority_power,0.6678870320320129,emperor,male,emperor,empress
+emperor,Romanoff,hyponym,romanoff,family_relation,0.04748999699950218,emperor,male,emperor,empress
+emperor,Romanov,hyponym,romanov,authority_power,0.23605689406394958,emperor,male,emperor,empress
+emperor,tenno,hyponym,tenno,family_relation,-0.2961985170841217,emperor,male,emperor,empress
+empress,adult female,hypernym,adult female,gender_marked,0.7868453860282898,empress,female,emperor,empress
+empress,emperor,hypernym,emperor,authority_power,0.5932514071464539,empress,female,emperor,empress
+empress,woman,hypernym,woman,gender_marked,0.920028567314148,empress,female,emperor,empress
+actor,performer,hypernym,performer,profession_role,0.6453431248664856,actor,male,actor,actress
+actor,performing artist,hypernym,performing artist,profession_role,0.6143277883529663,actor,male,actor,actress
+actor,actress,hyponym,actress,gender_marked,0.6046628952026367,actor,male,actor,actress
+actor,barnstormer,hyponym,barnstormer,profession_role,-0.057634878903627396,actor,male,actor,actress
+actor,character actor,hyponym,character actor,profession_role,0.6697579026222229,actor,male,actor,actress
+actor,comedian,hyponym,comedian,profession_role,0.4974151849746704,actor,male,actor,actress
+actor,extra,hyponym,extra,profession_role,0.31607785820961,actor,male,actor,actress
+actor,ham,hyponym,ham,gender_marked,0.15469935536384583,actor,male,actor,actress
+actor,ham actor,hyponym,ham actor,profession_role,0.49978578090667725,actor,male,actor,actress
+actor,heavy,hyponym,heavy,social_status,0.3393232524394989,actor,male,actor,actress
+actor,ingenue,hyponym,ingenue,gender_marked,0.2964510917663574,actor,male,actor,actress
+actor,lead,hyponym,lead,authority_power,0.4438530504703522,actor,male,actor,actress
+actor,leading man,hyponym,leading man,gender_marked,0.7467223405838013,actor,male,actor,actress
+actor,mime,hyponym,mime,profession_role,0.25082412362098694,actor,male,actor,actress
+actor,mimer,hyponym,mimer,missing_embedding,,actor,male,actor,actress
+actor,movie actor,hyponym,movie actor,profession_role,0.630638837814331,actor,male,actor,actress
+actor,mummer,hyponym,mummer,gender_marked,-0.24337813258171082,actor,male,actor,actress
+actor,pantomimer,hyponym,pantomimer,missing_embedding,,actor,male,actor,actress
+actor,pantomimist,hyponym,pantomimist,missing_embedding,,actor,male,actor,actress
+actor,plant,hyponym,plant,profession_role,0.301357239484787,actor,male,actor,actress
+actor,play-actor,hyponym,play actor,profession_role,0.661797046661377,actor,male,actor,actress
+actor,playactor,hyponym,playactor,missing_embedding,,actor,male,actor,actress
+actor,principal,hyponym,principal,profession_role,0.5493334531784058,actor,male,actor,actress
+actor,reenactor,hyponym,reenactor,profession_role,-0.1409762054681778,actor,male,actor,actress
+actor,scene-stealer,hyponym,scene stealer,gender_marked,0.45589491724967957,actor,male,actor,actress
+actor,screen actor,hyponym,screen actor,profession_role,0.6550883650779724,actor,male,actor,actress
+actor,spear carrier,hyponym,spear carrier,social_status,0.32185402512550354,actor,male,actor,actress
+actor,standby,hyponym,standby,authority_power,0.16978974640369415,actor,male,actor,actress
+actor,star,hyponym,star,gender_marked,0.5703470706939697,actor,male,actor,actress
+actor,supernumerary,hyponym,supernumerary,gender_marked,0.035692885518074036,actor,male,actor,actress
+actor,tragedian,hyponym,tragedian,gender_marked,-0.060071829706430435,actor,male,actor,actress
+actor,trouper,hyponym,trouper,profession_role,0.0497543029487133,actor,male,actor,actress
+actor,understudy,hyponym,understudy,profession_role,0.25230756402015686,actor,male,actor,actress
+actor,upstager,hyponym,upstager,missing_embedding,,actor,male,actor,actress
+actor,walk-on,hyponym,walk on,gender_marked,0.5585412979125977,actor,male,actor,actress
+actress,actor,hypernym,actor,profession_role,0.6431227922439575,actress,female,actor,actress
+actress,adult female,hypernym,adult female,gender_marked,0.7868453860282898,actress,female,actor,actress
+actress,histrion,hypernym,histrion,missing_embedding,,actress,female,actor,actress
+actress,player,hypernym,player,profession_role,0.5603010058403015,actress,female,actor,actress
+actress,role player,hypernym,role player,profession_role,0.6820095181465149,actress,female,actor,actress
+actress,thespian,hypernym,thespian,social_status,0.1593499481678009,actress,female,actor,actress
+actress,woman,hypernym,woman,gender_marked,0.920028567314148,actress,female,actor,actress
+actress,leading lady,hyponym,leading lady,gender_marked,0.7124528288841248,actress,female,actor,actress
+actress,starlet,hyponym,starlet,gender_marked,0.32567736506462097,actress,female,actor,actress
+actress,tragedienne,hyponym,tragedienne,gender_marked,-0.11811812967061996,actress,female,actor,actress
+waiter,dining-room attendant,hypernym,dining room attendant,profession_role,0.5019829273223877,waiter,male,waiter,waitress
+waiter,restaurant attendant,hypernym,restaurant attendant,profession_role,0.5802043080329895,waiter,male,waiter,waitress
+waiter,carhop,hyponym,carhop,profession_role,-0.09703995287418365,waiter,male,waiter,waitress
+waiter,counterperson,hyponym,counterperson,missing_embedding,,waiter,male,waiter,waitress
+waiter,sommelier,hyponym,sommelier,profession_role,0.2184513509273529,waiter,male,waiter,waitress
+waiter,waitress,hyponym,waitress,profession_role,0.5475204586982727,waiter,male,waiter,waitress
+waiter,wine steward,hyponym,wine steward,profession_role,0.380252480506897,waiter,male,waiter,waitress
+waiter,wine waiter,hyponym,wine waiter,profession_role,0.5329328179359436,waiter,male,waiter,waitress
+waitress,adult female,hypernym,adult female,gender_marked,0.7868453860282898,waitress,female,waiter,waitress
+waitress,server,hypernym,server,profession_role,0.39440274238586426,waitress,female,waiter,waitress
+waitress,waiter,hypernym,waiter,profession_role,0.5661800503730774,waitress,female,waiter,waitress
+waitress,woman,hypernym,woman,gender_marked,0.920028567314148,waitress,female,waiter,waitress
+waitress,bunny,hyponym,bunny,gender_marked,0.29303133487701416,waitress,female,waiter,waitress
+waitress,bunny girl,hyponym,bunny girl,gender_marked,0.7268033027648926,waitress,female,waiter,waitress
+businessman,adult male,hypernym,adult male,gender_marked,0.7665693163871765,businessman,male,businessman,businesswoman
+businessman,bourgeois,hypernym,bourgeois,social_status,0.43971988558769226,businessman,male,businessman,businesswoman
+businessman,businessperson,hypernym,businessperson,profession_role,0.38895195722579956,businessman,male,businessman,businesswoman
+businessman,man,hypernym,man,gender_marked,0.8482155799865723,businessman,male,businessman,businesswoman
+businessman,small businessman,hyponym,small businessman,profession_role,0.6262075901031494,businessman,male,businessman,businesswoman
+businessman,suit,hyponym,suit,gender_marked,0.43780672550201416,businessman,male,businessman,businesswoman
+businesswoman,adult female,hypernym,adult female,gender_marked,0.7868453860282898,businesswoman,female,businessman,businesswoman
+businesswoman,bourgeois,hypernym,bourgeois,social_status,0.43971988558769226,businesswoman,female,businessman,businesswoman
+businesswoman,businessperson,hypernym,businessperson,profession_role,0.38895195722579956,businesswoman,female,businessman,businesswoman
+businesswoman,woman,hypernym,woman,gender_marked,0.920028567314148,businesswoman,female,businessman,businesswoman
+businesswoman,brothel keeper,hyponym,brothel keeper,gender_marked,0.3562603294849396,businesswoman,female,businessman,businesswoman
+businesswoman,madam,hyponym,madam,gender_marked,0.24258211255073547,businesswoman,female,businessman,businesswoman
+policeman,adult male,hypernym,adult male,gender_marked,0.7665693163871765,policeman,male,policeman,policewoman
+policeman,man,hypernym,man,gender_marked,0.8482155799865723,policeman,male,policeman,policewoman
+policeman,officer,hypernym,officer,profession_role,0.6479348540306091,policeman,male,policeman,policewoman
+policeman,police officer,hypernym,police officer,profession_role,0.6152361631393433,policeman,male,policeman,policewoman
+policeman,pointsman,hyponym,pointsman,missing_embedding,,policeman,male,policeman,policewoman
+policewoman,adult female,hypernym,adult female,gender_marked,0.7868453860282898,policewoman,female,policeman,policewoman
+policewoman,officer,hypernym,officer,profession_role,0.6479348540306091,policewoman,female,policeman,policewoman
+policewoman,police officer,hypernym,police officer,profession_role,0.6152361631393433,policewoman,female,policeman,policewoman
+policewoman,woman,hypernym,woman,gender_marked,0.920028567314148,policewoman,female,policeman,policewoman
+policewoman,meter maid,hyponym,meter maid,gender_marked,0.5225568413734436,policewoman,female,policeman,policewoman
+congressman,adult male,hypernym,adult male,gender_marked,0.7665693163871765,congressman,male,congressman,congresswoman
+congressman,man,hypernym,man,gender_marked,0.8482155799865723,congressman,male,congressman,congresswoman
+congressman,representative,hypernym,representative,authority_power,0.5071462392807007,congressman,male,congressman,congresswoman
+congresswoman,adult female,hypernym,adult female,gender_marked,0.7868453860282898,congresswoman,female,congressman,congresswoman
+congresswoman,representative,hypernym,representative,authority_power,0.5071462392807007,congresswoman,female,congressman,congresswoman
+congresswoman,woman,hypernym,woman,gender_marked,0.920028567314148,congresswoman,female,congressman,congresswoman
+male parent,parent,hypernym,parent,family_relation,0.6017581820487976,male parent,male,male parent,female parent
+male parent,dad,hyponym,dad,family_relation,0.7206984758377075,male parent,male,male parent,female parent
+male parent,dada,hyponym,dada,profession_role,0.037129566073417664,male parent,male,male parent,female parent
+male parent,daddy,hyponym,daddy,family_relation,0.5246996879577637,male parent,male,male parent,female parent
+male parent,father-in-law,hyponym,father in law,authority_power,0.7477941513061523,male parent,male,male parent,female parent
+male parent,old man,hyponym,old man,gender_marked,0.8070544600486755,male parent,male,male parent,female parent
+male parent,pa,hyponym,pa,authority_power,0.14905351400375366,male parent,male,male parent,female parent
+male parent,papa,hyponym,papa,family_relation,0.2702016532421112,male parent,male,male parent,female parent
+male parent,pappa,hyponym,pappa,family_relation,-0.19329743087291718,male parent,male,male parent,female parent
+male parent,pater,hyponym,pater,family_relation,-1.9824306946247816e-05,male parent,male,male parent,female parent
+male parent,pop,hyponym,pop,gender_marked,0.48983263969421387,male parent,male,male parent,female parent
+female parent,parent,hypernym,parent,family_relation,0.6017581820487976,female parent,female,male parent,female parent
+female parent,baby mama,hyponym,baby mama,gender_marked,0.6180933713912964,female parent,female,male parent,female parent
+female parent,ma,hyponym,ma,authority_power,0.28111881017684937,female parent,female,male parent,female parent
+female parent,mama,hyponym,mama,gender_marked,0.3818850517272949,female parent,female,male parent,female parent
+female parent,mamma,hyponym,mamma,family_relation,0.08140400797128677,female parent,female,male parent,female parent
+female parent,mammy,hyponym,mammy,gender_marked,0.14078956842422485,female parent,female,male parent,female parent
+female parent,mater,hyponym,mater,family_relation,0.2709154784679413,female parent,female,male parent,female parent
+female parent,mom,hyponym,mom,family_relation,0.6990467309951782,female parent,female,male parent,female parent
+female parent,momma,hyponym,momma,family_relation,0.20435427129268646,female parent,female,male parent,female parent
+female parent,mommy,hyponym,mommy,family_relation,0.3474135100841522,female parent,female,male parent,female parent
+female parent,mompreneur,hyponym,mompreneur,missing_embedding,,female parent,female,male parent,female parent
+female parent,mother-in-law,hyponym,mother in law,family_relation,0.724261999130249,female parent,female,male parent,female parent
+female parent,mum,hyponym,mum,family_relation,0.4167357385158539,female parent,female,male parent,female parent
+female parent,mumma,hyponym,mumma,family_relation,-0.13568247854709625,female parent,female,male parent,female parent
+female parent,mummy,hyponym,mummy,gender_marked,0.2973235249519348,female parent,female,male parent,female parent
+female parent,para I,hyponym,para i,gender_marked,0.4778797924518585,female parent,female,male parent,female parent
+female parent,primipara,hyponym,primipara,missing_embedding,,female parent,female,male parent,female parent
+female parent,puerpera,hyponym,puerpera,missing_embedding,,female parent,female,male parent,female parent
+female parent,quadripara,hyponym,quadripara,missing_embedding,,female parent,female,male parent,female parent
+female parent,quintipara,hyponym,quintipara,missing_embedding,,female parent,female,male parent,female parent
+female parent,superdad,hyponym,superdad,missing_embedding,,female parent,female,male parent,female parent
+female parent,supermom,hyponym,supermom,gender_marked,-0.017860908061265945,female parent,female,male parent,female parent
+female parent,surrogate mother,hyponym,surrogate mother,family_relation,0.8458154797554016,female parent,female,male parent,female parent
+son,male offspring,hypernym,male offspring,gender_marked,0.7057788968086243,son,male,son,daughter
+son,man-child,hypernym,man child,gender_marked,0.8953929543495178,son,male,son,daughter
+son,Jnr,hyponym,jnr,authority_power,0.12673355638980865,son,male,son,daughter
+son,Jr,hyponym,jr,family_relation,0.16964909434318542,son,male,son,daughter
+son,Junior,hyponym,junior,social_status,0.5353817343711853,son,male,son,daughter
+son,mama's boy,hyponym,mamas boy,gender_marked,0.6203027963638306,son,male,son,daughter
+son,mamma's boy,hyponym,mammas boy,gender_marked,0.58998703956604,son,male,son,daughter
+son,mother's boy,hyponym,mothers boy,gender_marked,0.8051499724388123,son,male,son,daughter
+daughter,female offspring,hypernym,female offspring,gender_marked,0.7458595037460327,daughter,female,son,daughter
+daughter,mother's daughter,hyponym,mothers daughter,family_relation,0.8520233035087585,daughter,female,son,daughter
+male sibling,kinsman,hypernym,kinsman,family_relation,0.25178608298301697,male sibling,male,male sibling,female sibling
+male sibling,blood brother,hyponym,blood brother,family_relation,0.7373899817466736,male sibling,male,male sibling,female sibling
+male sibling,brother,hyponym,brother,family_relation,0.8684770464897156,male sibling,male,male sibling,female sibling
+female sibling,kinswoman,hypernym,kinswoman,family_relation,0.14181499183177948,female sibling,female,male sibling,female sibling
+female sibling,sis,hyponym,sis,family_relation,0.10621271282434464,female sibling,female,male sibling,female sibling
+female sibling,sister,hyponym,sister,family_relation,0.8635269999504089,female sibling,female,male sibling,female sibling
+uncle,kinsman,hypernym,kinsman,family_relation,0.25178608298301697,uncle,male,uncle,aunt
+uncle,granduncle,hyponym,granduncle,family_relation,0.12175560742616653,uncle,male,uncle,aunt
+uncle,great-uncle,hyponym,great uncle,family_relation,0.7551305890083313,uncle,male,uncle,aunt
+aunt,kinswoman,hypernym,kinswoman,family_relation,0.14181499183177948,aunt,female,uncle,aunt
+aunt,grandaunt,hyponym,grandaunt,missing_embedding,,aunt,female,uncle,aunt
+aunt,great-aunt,hyponym,great aunt,family_relation,0.7897300720214844,aunt,female,uncle,aunt
+aunt,maiden aunt,hyponym,maiden aunt,family_relation,0.7055172324180603,aunt,female,uncle,aunt
+nephew,kinsman,hypernym,kinsman,family_relation,0.25178608298301697,nephew,male,nephew,niece
+nephew,grandnephew,hyponym,grandnephew,family_relation,0.20475149154663086,nephew,male,nephew,niece
+nephew,great-nephew,hyponym,great nephew,family_relation,0.746802031993866,nephew,male,nephew,niece
+niece,kinswoman,hypernym,kinswoman,family_relation,0.14181499183177948,niece,female,nephew,niece
+niece,grandniece,hyponym,grandniece,family_relation,0.17401951551437378,niece,female,nephew,niece
+niece,great-niece,hyponym,great niece,family_relation,0.7981171011924744,niece,female,nephew,niece
+grandfather,grandparent,hypernym,grandparent,family_relation,0.42599576711654663,grandfather,male,grandfather,grandmother
+grandmother,grandparent,hypernym,grandparent,family_relation,0.42599576711654663,grandmother,female,grandfather,grandmother
+grandmother,nan,hyponym,nan,family_relation,0.15785335004329681,grandmother,female,grandfather,grandmother
+grandson,grandchild,hypernym,grandchild,family_relation,0.5628901720046997,grandson,male,grandson,granddaughter
+granddaughter,grandchild,hypernym,grandchild,family_relation,0.5628901720046997,granddaughter,female,grandson,granddaughter
+husband,adult male,hypernym,adult male,gender_marked,0.7665693163871765,husband,male,husband,wife
+husband,better half,hypernym,better half,profession_role,0.5611749887466431,husband,male,husband,wife
+husband,man,hypernym,man,gender_marked,0.8482155799865723,husband,male,husband,wife
+husband,married person,hypernym,married person,family_relation,0.8416807651519775,husband,male,husband,wife
+husband,mate,hypernym,mate,gender_marked,0.4044589102268219,husband,male,husband,wife
+husband,partner,hypernym,partner,profession_role,0.5902619361877441,husband,male,husband,wife
+husband,spouse,hypernym,spouse,family_relation,0.6853976845741272,husband,male,husband,wife
+husband,benedick,hyponym,benedick,family_relation,0.04592762142419815,husband,male,husband,wife
+husband,benedict,hyponym,benedict,authority_power,0.45240747928619385,husband,male,husband,wife
+husband,cuckold,hyponym,cuckold,gender_marked,0.03315462917089462,husband,male,husband,wife
+husband,family man,hyponym,family man,family_relation,0.8481295108795166,husband,male,husband,wife
+husband,first gentleman,hyponym,first gentleman,gender_marked,0.7516160011291504,husband,male,husband,wife
+husband,golf widower,hyponym,golf widower,family_relation,0.558176577091217,husband,male,husband,wife
+husband,honest man,hyponym,honest man,gender_marked,0.7295399904251099,husband,male,husband,wife
+husband,house husband,hyponym,house husband,family_relation,0.8139281868934631,husband,male,husband,wife
+husband,househusband,hyponym,househusband,profession_role,-0.1485489010810852,husband,male,husband,wife
+husband,trophy husband,hyponym,trophy husband,family_relation,0.7038854360580444,husband,male,husband,wife
+husband,uxoricide,hyponym,uxoricide,missing_embedding,,husband,male,husband,wife
+wife,adult female,hypernym,adult female,gender_marked,0.7868453860282898,wife,female,husband,wife
+wife,better half,hypernym,better half,profession_role,0.5611749887466431,wife,female,husband,wife
+wife,married person,hypernym,married person,family_relation,0.8416807651519775,wife,female,husband,wife
+wife,mate,hypernym,mate,gender_marked,0.4044589102268219,wife,female,husband,wife
+wife,partner,hypernym,partner,profession_role,0.5902619361877441,wife,female,husband,wife
+wife,spouse,hypernym,spouse,family_relation,0.6853976845741272,wife,female,husband,wife
+wife,woman,hypernym,woman,gender_marked,0.920028567314148,wife,female,husband,wife
+wife,battle-ax,hyponym,battle ax,gender_marked,0.3481767177581787,wife,female,husband,wife
+wife,battle-axe,hyponym,battle axe,authority_power,0.39584314823150635,wife,female,husband,wife
+wife,crown princess,hyponym,crown princess,authority_power,0.6522336006164551,wife,female,husband,wife
+wife,first lady,hyponym,first lady,gender_marked,0.7592774629592896,wife,female,husband,wife
+wife,golf widow,hyponym,golf widow,family_relation,0.6826052665710449,wife,female,husband,wife
+wife,homemaker,hyponym,homemaker,family_relation,0.46766752004623413,wife,female,husband,wife
+wife,honest woman,hyponym,honest woman,gender_marked,0.806967556476593,wife,female,husband,wife
+wife,housewife,hyponym,housewife,family_relation,0.4845835566520691,wife,female,husband,wife
+wife,lady of the house,hyponym,lady of the house,authority_power,0.7161766886711121,wife,female,husband,wife
+wife,marchioness,hyponym,marchioness,family_relation,0.1330527514219284,wife,female,husband,wife
+wife,matron,hyponym,matron,gender_marked,0.3187114894390106,wife,female,husband,wife
+wife,mayoress,hyponym,mayoress,gender_marked,0.002462532836943865,wife,female,husband,wife
+wife,missis,hyponym,missis,missing_embedding,,wife,female,husband,wife
+wife,missus,hyponym,missus,family_relation,-0.03855918347835541,wife,female,husband,wife
+wife,old lady,hyponym,old lady,gender_marked,0.8253996968269348,wife,female,husband,wife
+wife,queen,hyponym,queen,authority_power,0.6794875264167786,wife,female,husband,wife
+wife,sheika,hyponym,sheika,family_relation,-0.020685741677880287,wife,female,husband,wife
+wife,sheikha,hyponym,sheikha,family_relation,0.12529486417770386,wife,female,husband,wife
+wife,signora,hyponym,signora,profession_role,-0.0488545261323452,wife,female,husband,wife
+wife,trophy wife,hyponym,trophy wife,family_relation,0.7128472924232483,wife,female,husband,wife
+wife,ux.,hyponym,ux,social_status,-0.07661763578653336,wife,female,husband,wife
+wife,uxor,hyponym,uxor,missing_embedding,,wife,female,husband,wife
+wife,vicereine,hyponym,vicereine,gender_marked,-0.1836819350719452,wife,female,husband,wife
+wife,viscountess,hyponym,viscountess,family_relation,0.12918293476104736,wife,female,husband,wife
+wife,woman of the house,hyponym,woman of the house,gender_marked,0.7365873456001282,wife,female,husband,wife
+boyfriend,adult male,hypernym,adult male,gender_marked,0.7665693163871765,boyfriend,male,boyfriend,lady friend
+boyfriend,lover,hypernym,lover,family_relation,0.7250388264656067,boyfriend,male,boyfriend,lady friend
+boyfriend,man,hypernym,man,gender_marked,0.8482155799865723,boyfriend,male,boyfriend,lady friend
+lady friend,adult female,hypernym,adult female,gender_marked,0.7868453860282898,lady friend,female,boyfriend,lady friend
+lady friend,lover,hypernym,lover,family_relation,0.7250388264656067,lady friend,female,boyfriend,lady friend
+lady friend,woman,hypernym,woman,gender_marked,0.920028567314148,lady friend,female,boyfriend,lady friend
+monk,religious,hypernym,religious,authority_power,0.5429829359054565,monk,male,monk,nun
+monk,Brother,hyponym,brother,family_relation,0.8684770464897156,monk,male,monk,nun
+monk,Carthusian,hyponym,carthusian,social_status,0.14403991401195526,monk,male,monk,nun
+monk,Cistercian,hyponym,cistercian,authority_power,0.24338261783123016,monk,male,monk,nun
+monk,Trappist,hyponym,trappist,authority_power,0.07505948096513748,monk,male,monk,nun
+nun,religious,hypernym,religious,authority_power,0.5429829359054565,nun,female,monk,nun
+nun,Sister,hyponym,sister,family_relation,0.8635269999504089,nun,female,monk,nun
+priest,Holy Order,hypernym,holy order,authority_power,0.7381243109703064,priest,male,priest,priestess
+priest,Order,hypernym,order,authority_power,0.6800424456596375,priest,male,priest,priestess
+priest,reverend,hypernym,reverend,family_relation,0.4313580393791199,priest,male,priest,priestess
+priest,archpriest,hyponym,archpriest,authority_power,0.11058182269334793,priest,male,priest,priestess
+priest,bishop,hyponym,bishop,authority_power,0.6429309844970703,priest,male,priest,priestess
+priest,canon,hyponym,canon,authority_power,0.3299747407436371,priest,male,priest,priestess
+priest,celebrant,hyponym,celebrant,profession_role,0.16628828644752502,priest,male,priest,priestess
+priest,confessor,hyponym,confessor,authority_power,0.3871171474456787,priest,male,priest,priestess
+priest,domestic prelate,hyponym,domestic prelate,social_status,0.45833471417427063,priest,male,priest,priestess
+priest,Father,hyponym,father,family_relation,0.9152863621711731,priest,male,priest,priestess
+priest,hierarch,hyponym,hierarch,social_status,0.062014203518629074,priest,male,priest,priestess
+priest,high priest,hyponym,high priest,authority_power,0.6819393634796143,priest,male,priest,priestess
+priest,Monsignor,hyponym,monsignor,authority_power,0.3024781346321106,priest,male,priest,priestess
+priest,Padre,hyponym,padre,family_relation,0.08282681554555893,priest,male,priest,priestess
+priest,pontifex,hyponym,pontifex,authority_power,0.09794919192790985,priest,male,priest,priestess
+priest,prelate,hyponym,prelate,social_status,0.3437010645866394,priest,male,priest,priestess
+priest,priestess,hyponym,priestess,gender_marked,0.26714447140693665,priest,male,priest,priestess
+priest,primate,hyponym,primate,authority_power,0.253652960062027,priest,male,priest,priestess
+priest,vicar,hyponym,vicar,authority_power,0.4085259735584259,priest,male,priest,priestess
+priestess,adult female,hypernym,adult female,gender_marked,0.7868453860282898,priestess,female,priest,priestess
+priestess,priest,hypernym,priest,authority_power,0.6066460609436035,priestess,female,priest,priestess
+priestess,woman,hypernym,woman,gender_marked,0.920028567314148,priestess,female,priest,priestess
+abbot,adult male,hypernym,adult male,gender_marked,0.7665693163871765,abbot,male,abbot,abbess
+abbot,man,hypernym,man,gender_marked,0.8482155799865723,abbot,male,abbot,abbess
+abbot,superior,hypernym,superior,social_status,0.6064663529396057,abbot,male,abbot,abbess
+abbot,abbe,hyponym,abbe,family_relation,0.048491641879081726,abbot,male,abbot,abbess
+abbess,adult female,hypernym,adult female,gender_marked,0.7868453860282898,abbess,female,abbot,abbess
+abbess,superior,hypernym,superior,social_status,0.6064663529396057,abbess,female,abbot,abbess
+abbess,woman,hypernym,woman,gender_marked,0.920028567314148,abbess,female,abbot,abbess
+abbess,mother,hyponym,mother,family_relation,0.9220587015151978,abbess,female,abbot,abbess
+god,spiritual being,hypernym,spiritual being,authority_power,0.6849623918533325,god,male,god,goddess
+god,supernatural being,hypernym,supernatural being,gender_marked,0.5809723734855652,god,male,god,goddess
+god,Anglo-Saxon deity,hyponym,anglo saxon deity,authority_power,0.4897712767124176,god,male,god,goddess
+god,Celtic deity,hyponym,celtic deity,authority_power,0.41363325715065,god,male,god,goddess
+god,Chinese deity,hyponym,chinese deity,authority_power,0.541813850402832,god,male,god,goddess
+god,daemon,hyponym,daemon,profession_role,0.015940271317958832,god,male,god,goddess
+god,demigod,hyponym,demigod,social_status,0.1112218126654625,god,male,god,goddess
+god,demiurge,hyponym,demiurge,social_status,0.03699926659464836,god,male,god,goddess
+god,earth god,hyponym,earth god,authority_power,0.5206261873245239,god,male,god,goddess
+god,earth-god,hyponym,earth god,authority_power,0.5206261873245239,god,male,god,goddess
+god,Egyptian deity,hyponym,egyptian deity,authority_power,0.5719115138053894,god,male,god,goddess
+god,god of war,hyponym,god of war,authority_power,0.722754955291748,god,male,god,goddess
+god,goddess,hyponym,goddess,gender_marked,0.4419211149215698,god,male,god,goddess
+god,Graeco-Roman deity,hyponym,graeco roman deity,authority_power,0.595075249671936,god,male,god,goddess
+god,Greco-Roman deity,hyponym,greco roman deity,authority_power,0.4822072386741638,god,male,god,goddess
+god,Greek deity,hyponym,greek deity,authority_power,0.5231124758720398,god,male,god,goddess
+god,Hindu deity,hyponym,hindu deity,authority_power,0.45890966057777405,god,male,god,goddess
+god,Japanese deity,hyponym,japanese deity,gender_marked,0.5106151103973389,god,male,god,goddess
+god,Norse deity,hyponym,norse deity,authority_power,0.3622017502784729,god,male,god,goddess
+god,Persian deity,hyponym,persian deity,authority_power,0.5000618696212769,god,male,god,goddess
+god,Phrygian deity,hyponym,phrygian deity,authority_power,0.29239094257354736,god,male,god,goddess
+god,Roman deity,hyponym,roman deity,authority_power,0.595075249671936,god,male,god,goddess
+god,saint,hyponym,saint,authority_power,0.49816176295280457,god,male,god,goddess
+god,sea god,hyponym,sea god,authority_power,0.5927577018737793,god,male,god,goddess
+god,Semitic deity,hyponym,semitic deity,authority_power,0.33977431058883667,god,male,god,goddess
+god,snake god,hyponym,snake god,gender_marked,0.5648104548454285,god,male,god,goddess
+god,sun god,hyponym,sun god,authority_power,0.5507840514183044,god,male,god,goddess
+god,Teutonic deity,hyponym,teutonic deity,social_status,0.4166431725025177,god,male,god,goddess
+god,war god,hyponym,war god,authority_power,0.6712207198143005,god,male,god,goddess
+god,zombi,hyponym,zombi,gender_marked,-0.20768989622592926,god,male,god,goddess
+god,zombie,hyponym,zombie,gender_marked,0.26947465538978577,god,male,god,goddess
+goddess,deity,hypernym,deity,authority_power,0.41235387325286865,goddess,female,god,goddess
+goddess,divinity,hypernym,divinity,social_status,0.28784966468811035,goddess,female,god,goddess
+goddess,god,hypernym,god,authority_power,0.5606561899185181,goddess,female,god,goddess
+goddess,immortal,hypernym,immortal,gender_marked,0.34094351530075073,goddess,female,god,goddess
+goddess,earth goddess,hyponym,earth goddess,gender_marked,0.49148282408714294,goddess,female,god,goddess
+goddess,earth-goddess,hyponym,earth goddess,gender_marked,0.49148282408714294,goddess,female,god,goddess
