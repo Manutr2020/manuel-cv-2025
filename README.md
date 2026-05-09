@@ -53,8 +53,6 @@ A linguistic GIS project exploring the spatial distribution of *mo*, *ora*, and 
 - Methods: georeferencing, point mapping, Voronoi polygons
 - Focus: linguistic variation and cultural boundaries  
 
-👉 [View Project](./hgis-now-adverbs)
-
 ---
 
 ### ⚔️ Expedition of the Thousand (1860)
@@ -62,10 +60,8 @@ A historical GIS project mapping Garibaldi’s campaign during Italian unificati
 
 - Movement-based visualization (sea vs land routes)
 - Symbolic mapping of events and battles
-- Interactive exploration of historical data  
-
-👉 [View Project](./hgis-expedition-thousand)
-
+- Interactive exploration of historical data
+  
 ---
 
 ### 📊 That-Omission in English
@@ -73,10 +69,8 @@ A variationist sociolinguistic analysis of optional *that* omission in English.
 
 - Statistical modeling of syntactic variation  
 - Analysis of linguistic and contextual factors  
-- Reproducible workflow in RMarkdown  
-
-👉 [View Project](./that-omission-analysis)
-
+- Reproducible workflow in RMarkdown
+  
 ---
 
 ### 🎵 Musical Search Engine
@@ -86,8 +80,6 @@ A web-based information retrieval system for a musical corpus.
 - TF-IDF ranking  
 - Semantic similarity search  
 - Theme extraction and visualization  
-
-👉 [View Project](./musical-search-engine)
 
 ---
 
